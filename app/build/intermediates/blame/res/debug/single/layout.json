@@ -1,42 +1,82 @@
 [
     {
-        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/activity_resource.xml",
-        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/activity_resource.xml"
+        "merged": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
     },
     {
-        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/video.xml",
-        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/video.xml"
+        "merged": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_page.xml",
+        "source": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\layout\\home_page.xml"
     },
     {
-        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/contact_us.xml",
-        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/contact_us.xml"
+        "merged": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout.xml",
+        "source": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\layout\\layout.xml"
     },
     {
-        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/activity_main.xml"
+        "merged": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/activity_open_web_view.xml",
-        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/activity_open_web_view.xml"
+        "merged": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_page.xml",
+        "source": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\layout\\home_page.xml"
     },
     {
-        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/fragment_planet.xml",
-        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/fragment_planet.xml"
+        "merged": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video.xml",
+        "source": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\layout\\video.xml"
     },
     {
-        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/layout.xml",
-        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/layout.xml"
+        "merged": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\layout\\about_us.xml"
     },
     {
-        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/home_page.xml",
-        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/home_page.xml"
+        "merged": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
+        "source": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\layout\\contact_us.xml"
     },
     {
-        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/drawer_list_item.xml",
-        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/drawer_list_item.xml"
+        "merged": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_web_view.xml",
+        "source": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\layout\\activity_open_web_view.xml"
     },
     {
-        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/about_us.xml",
-        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/about_us.xml"
+        "merged": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video.xml",
+        "source": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\layout\\video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
+        "source": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_planet.xml",
+        "source": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\layout\\fragment_planet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_web_view.xml",
+        "source": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\layout\\activity_open_web_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_planet.xml",
+        "source": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\layout\\fragment_planet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout.xml",
+        "source": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\layout\\layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\layout\\about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resource.xml",
+        "source": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\layout\\activity_resource.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resource.xml",
+        "source": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\layout\\activity_resource.xml"
+    },
+    {
+        "merged": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
     }
 ]
