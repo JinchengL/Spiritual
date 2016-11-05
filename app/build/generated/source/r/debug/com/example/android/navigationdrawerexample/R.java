@@ -42,11 +42,10 @@ public final class R {
     }
     public static final class id {
         public static final int aboutUs_layout=0x7f080000;
-        public static final int action_websearch=0x7f080021;
+        public static final int action_websearch=0x7f080020;
         public static final int activity_open_web_view=0x7f080008;
         public static final int activity_resource=0x7f08000a;
         public static final int avatar=0x7f080003;
-        public static final int calendar_button=0x7f08001e;
         public static final int contactUs_layout=0x7f08000d;
         public static final int content_frame=0x7f080007;
         public static final int drawer_layout=0x7f080005;
@@ -55,7 +54,7 @@ public final class R {
         public static final int image=0x7f08001c;
         public static final int imageButton1=0x7f08000b;
         public static final int imageButton2=0x7f08000c;
-        public static final int imageView=0x7f080020;
+        public static final int imageView=0x7f08001f;
         public static final int imageView7=0x7f08000e;
         public static final int imageView8=0x7f08000f;
         public static final int imageView9=0x7f080010;
@@ -73,7 +72,7 @@ public final class R {
         public static final int textView8=0x7f080018;
         public static final int textView9=0x7f080017;
         public static final int userName=0x7f080004;
-        public static final int video_layout=0x7f08001f;
+        public static final int video_layout=0x7f08001e;
         public static final int webview=0x7f080009;
     }
     public static final class layout {
@@ -85,8 +84,7 @@ public final class R {
         public static final int drawer_list_item=0x7f030005;
         public static final int fragment_planet=0x7f030006;
         public static final int home_page=0x7f030007;
-        public static final int layout=0x7f030008;
-        public static final int video=0x7f030009;
+        public static final int video=0x7f030008;
     }
     public static final class menu {
         public static final int main=0x7f070000;

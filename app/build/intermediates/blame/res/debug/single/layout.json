@@ -4,12 +4,12 @@
         "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/activity_resource.xml"
     },
     {
-        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/video.xml",
-        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/video.xml"
-    },
-    {
         "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/contact_us.xml",
         "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/contact_us.xml"
+    },
+    {
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/video.xml",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/video.xml"
     },
     {
         "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
@@ -22,10 +22,6 @@
     {
         "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/fragment_planet.xml",
         "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/fragment_planet.xml"
-    },
-    {
-        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/layout.xml",
-        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/layout.xml"
     },
     {
         "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/home_page.xml",

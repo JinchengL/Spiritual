@@ -38,5 +38,4 @@ public class OpenWebView extends Activity {
         }
         return super.onKeyDown(keyCode, event);
     }
-
 }

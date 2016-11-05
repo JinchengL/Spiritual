@@ -5,29 +5,29 @@
     density="mdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="1315080417966534"
+    timestamp="1326234126310281"
     token="924658242865638"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="2272" />
+        duration="978" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="215" />
+        duration="229" />
     <task
         name="verifier"
-        duration="3" />
+        duration="27" />
 
     <artifact
         location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="1315080417966534"
+        timestamp="1326234126310281"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/outputs/apk/app-debug.apk"
