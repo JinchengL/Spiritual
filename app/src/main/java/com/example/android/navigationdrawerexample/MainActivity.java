@@ -86,7 +86,7 @@ public class MainActivity extends Activity {
     private String[] mPlanetTitles;
     private boolean isDrawerLocked = false;
 
-
+    //adding comment
     ArrayList<NavItem>  mNavItems = new ArrayList<NavItem>();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
