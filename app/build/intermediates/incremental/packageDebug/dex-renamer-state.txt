@@ -1,4 +1,4 @@
-#Sat Nov 05 19:46:00 EDT 2016
+#Sun Nov 06 20:53:14 EST 2016
 base.0=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f038b9d106cc1a1621bf8851c9b68806a22f409
 renamed.1=classes.dex
 renamed.0=classes2.dex

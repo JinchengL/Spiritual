@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -12,356 +12,7 @@
                     "endOffset": 260
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 701,
-                        "endLine": 25,
-                        "endColumn": 19,
-                        "endOffset": 913
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 265,
-                    "endColumn": 57,
-                    "endOffset": 318
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 347,
-                        "endColumn": 57,
-                        "endOffset": 400
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 323,
-                    "endColumn": 55,
-                    "endOffset": 374
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 406,
-                        "endColumn": 55,
-                        "endOffset": 457
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 379,
-                    "endColumn": 45,
-                    "endOffset": 420
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 206,
-                        "endColumn": 45,
-                        "endOffset": 247
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 425,
-                    "endColumn": 54,
-                    "endOffset": 475
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 102,
-                        "endColumn": 54,
-                        "endOffset": 152
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 480,
-                    "endColumn": 43,
-                    "endOffset": 519
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 57,
-                        "endColumn": 43,
-                        "endOffset": 96
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 524,
-                    "endColumn": 45,
-                    "endOffset": 565
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 300,
-                        "endColumn": 45,
-                        "endOffset": 341
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 570,
-                    "endColumn": 45,
-                    "endOffset": 611
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 253,
-                        "endColumn": 45,
-                        "endOffset": 294
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 616,
-                    "endColumn": 46,
-                    "endOffset": 658
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 158,
-                        "endColumn": 46,
-                        "endOffset": 200
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 663,
-                    "endColumn": 50,
-                    "endOffset": 709
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 463,
-                        "endColumn": 50,
-                        "endOffset": 509
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 714,
-                    "endColumn": 51,
-                    "endOffset": 761
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 515,
-                        "endColumn": 51,
-                        "endOffset": 562
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 766,
-                    "endColumn": 55,
-                    "endOffset": 817
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 1049,
-                        "endColumn": 55,
-                        "endOffset": 1100
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 822,
-                    "endColumn": 62,
-                    "endOffset": 880
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 637,
-                        "endColumn": 62,
-                        "endOffset": 695
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 885,
-                    "endColumn": 86,
-                    "endOffset": 967
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1106,
-                        "endColumn": 86,
-                        "endOffset": 1188
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 972,
-                    "endColumn": 64,
-                    "endOffset": 1032
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 983,
-                        "endColumn": 64,
-                        "endOffset": 1043
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 1037,
-                    "endColumn": 62,
-                    "endOffset": 1095
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 919,
-                        "endColumn": 62,
-                        "endOffset": 977
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 1100,
-                    "endColumn": 68,
-                    "endOffset": 1164
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 1194,
-                        "endColumn": 68,
-                        "endOffset": 1258
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 1169,
-                    "endColumn": 60,
-                    "endOffset": 1225
-                },
-                "from": {
-                    "file": "C:\\Users\\Skylor\\SpiritualCare\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 1264,
-                        "endColumn": 60,
-                        "endOffset": 1320
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endLine": 9,
-                    "endColumn": 19,
-                    "endOffset": 260
-                },
-                "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -381,7 +32,7 @@
                     "endOffset": 318
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -400,7 +51,7 @@
                     "endOffset": 374
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -419,7 +70,7 @@
                     "endOffset": 420
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -438,7 +89,7 @@
                     "endOffset": 475
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -457,7 +108,7 @@
                     "endOffset": 519
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -476,7 +127,7 @@
                     "endOffset": 565
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -495,7 +146,7 @@
                     "endOffset": 611
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -514,7 +165,7 @@
                     "endOffset": 658
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -533,7 +184,7 @@
                     "endOffset": 709
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -552,7 +203,7 @@
                     "endOffset": 761
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -571,7 +222,7 @@
                     "endOffset": 817
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -590,7 +241,7 @@
                     "endOffset": 880
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -609,7 +260,7 @@
                     "endOffset": 967
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -628,7 +279,7 @@
                     "endOffset": 1032
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -647,7 +298,7 @@
                     "endOffset": 1095
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -666,7 +317,7 @@
                     "endOffset": 1164
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -685,7 +336,7 @@
                     "endOffset": 1225
                 },
                 "from": {
-                    "file": "C:\\Users\\Jinchengliu\\Downloads\\NavigationDrawer1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,

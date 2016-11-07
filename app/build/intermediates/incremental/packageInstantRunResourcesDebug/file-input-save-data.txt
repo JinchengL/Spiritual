@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Nov 05 19:45:43 EDT 2016
+#Sun Nov 06 20:52:56 EST 2016
 25.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/layout-v17/activity_resource.xml
 25.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_
 22.set=ANDROID_RESOURCE
@@ -74,7 +74,7 @@ count=29
 12.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/layout/home_page.xml
 12.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_
 4.set=ANDROID_RESOURCE
-4.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/layout-v17/drawer_list_item.xml
+4.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/muslim.jpg
 4.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_
 23.set=ANDROID_RESOURCE
 24.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/drawable/earth.jpg
@@ -85,6 +85,6 @@ count=29
 17.set=ANDROID_RESOURCE
 13.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/contact_2.png
 13.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_
-5.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/muslim.jpg
+5.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/layout-v17/drawer_list_item.xml
 3.set=ANDROID_RESOURCE
 5.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_

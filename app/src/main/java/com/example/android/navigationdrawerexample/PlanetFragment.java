@@ -54,12 +54,7 @@ public class PlanetFragment extends Fragment {
 
             //image button2
             ImageButton button2 = (ImageButton)rootView.findViewById(R.id.imageButton2);
-            button2.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View v) {
-
-                }
-            });
+            button2.setOnClickListener(new ClickWebViewListener(getActivity(),""));
 
         }
         else if(i == 4){

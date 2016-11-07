@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sat Nov 05 19:46:00 EDT 2016
+#Sun Nov 06 20:53:14 EST 2016
 25.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/drawer_shadow.9.png
 41.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_
 25.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_
@@ -40,7 +40,7 @@ count=44
 31.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_1956fb2d59790bc866bfdd1ffd19658baf5ce521
 15.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad514fc94b0f7e319d79295a53f32d23a84129a4
 26.set=DEX
-7.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/muslim.jpg
+7.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/layout-v17/drawer_list_item.xml
 7.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_
 15.set=DEX
 43.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/layout-v21/drawer_list_item.xml
@@ -63,7 +63,7 @@ count=44
 6.set=ANDROID_RESOURCE
 16.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_
 36.set=ANDROID_RESOURCE
-8.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/layout-v17/drawer_list_item.xml
+8.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/muslim.jpg
 8.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_
 17.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_drawer_icon_text.png
 25.set=ANDROID_RESOURCE
@@ -115,7 +115,7 @@ count=44
 4.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex
 4.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
 23.set=DEX
-40.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_drawer_icon_contact.png
+40.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/layout/video.xml
 24.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/layout/fragment_planet.xml
 9.set=DEX
 40.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_
@@ -132,4 +132,4 @@ count=44
 3.set=ANDROID_RESOURCE
 5.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f038b9d106cc1a1621bf8851c9b68806a22f409
 33.set=ANDROID_RESOURCE
-41.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/layout/video.xml
+41.file=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_drawer_icon_contact.png
