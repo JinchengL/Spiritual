@@ -10,4 +10,5 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="resource_marginLeft">80dp</dimen>
     <dimen name="resource_marginRight">80dp</dimen>
+    <dimen name="marginforAll">16dp</dimen>
 </resources>

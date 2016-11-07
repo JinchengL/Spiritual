@@ -2,36 +2,50 @@
 <instant-run
     abi="x86"
     api-level="24"
-    density="mdpi"
+    density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="1366873242813641"
+    timestamp="1389129205101219"
     token="924658242865638"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="1805" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="791" />
+        duration="0" />
     <task
         name="verifier"
-        duration="37" />
+        duration="0" />
 
     <artifact
-        location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="1366873242813641"
+        timestamp="1388001286898223"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="1389003497309712"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="1389129205101219"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

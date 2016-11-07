@@ -4,7 +4,8 @@
         <item>Home</item>
         <item>About Us</item>
         <item>Video/ Music</item>
-        <item>Resource</item>
+        <item>Sacred Text</item>
+        <item>Interface Calendar</item>
         <item>Contact Us</item>
 
     </string-array>
@@ -15,6 +16,7 @@
     <dimen name="drawer_size">280dp</dimen>
     <dimen name="font_size_text">20sp</dimen>
     <dimen name="fontsize_title">30sp</dimen>
+    <dimen name="marginforAll">16dp</dimen>
     <dimen name="profile_height">140dp</dimen>
     <dimen name="resource_marginLeft">80dp</dimen>
     <dimen name="resource_marginRight">80dp</dimen>
