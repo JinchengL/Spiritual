@@ -108,6 +108,8 @@ public class MainActivity extends Activity {
         mDrawerList = (ListView) findViewById(R.id.left_drawer);
         FrameLayout frameLayout = (FrameLayout)findViewById(R.id.content_frame);
 
+        //TextView text = (TextView) findViewById(R.id.textView10);
+        //text.setText("TESTING");
         if(((ViewGroup.MarginLayoutParams)frameLayout.getLayoutParams()).leftMargin == (int)getResources().getDimension(R.dimen.drawer_size)) {
 
             mDrawerLayout.setDrawerLockMode(DrawerLayout.LOCK_MODE_LOCKED_OPEN, mDrawerList);
