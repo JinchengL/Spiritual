@@ -48,6 +48,8 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import org.w3c.dom.Text;
+
 /**
  * This example illustrates a common usage of the DrawerLayout widget
  * in the Android support library.
@@ -105,7 +107,6 @@ public class MainActivity extends Activity {
         mDrawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
         mDrawerList = (ListView) findViewById(R.id.left_drawer);
         FrameLayout frameLayout = (FrameLayout)findViewById(R.id.content_frame);
-
 
         if(((ViewGroup.MarginLayoutParams)frameLayout.getLayoutParams()).leftMargin == (int)getResources().getDimension(R.dimen.drawer_size)) {
 

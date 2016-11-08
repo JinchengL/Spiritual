@@ -15,7 +15,7 @@
   -->
 
 <resources>
-    <string name="app_name">Navigation Drawer Example</string>
+    <string name="app_name">Spiritual Care App</string>
     <string-array name="menu_array">
         <item>Home</item>
         <item>About Us</item>

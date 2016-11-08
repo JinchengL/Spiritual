@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="24"
-    density="xhdpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="16"
+    density="mdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="1389129205101219"
-    token="924658242865638"
-    verifier="COMPATIBLE" >
+    timestamp="459696273241851"
+    token="-2020604415086078274"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -23,29 +23,15 @@
         duration="0" />
 
     <artifact
-        location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="C:\Users\Skylor\Capstone\Spiritual\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="1388001286898223"
+        timestamp="459696273241851"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/outputs/apk/app-debug.apk"
+            location="C:\Users\Skylor\Capstone\Spiritual\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="1389003497309712"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="1389129205101219"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>

@@ -21,7 +21,7 @@
     <dimen name="resource_marginLeft">80dp</dimen>
     <dimen name="resource_marginRight">80dp</dimen>
     <string name="action_websearch">Web search</string>
-    <string name="app_name">Navigation Drawer Example</string>
+    <string name="app_name">Spiritual Care App</string>
     <string name="app_not_available">Sorry, there\'s no web browser available</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="drawer_open">Open navigation drawer</string>
