@@ -19,20 +19,20 @@
         android:layout_marginTop="100dp"
         android:layout_height="99dp">
         <ImageView
-            android:src="@drawable/contact_1"
+            android:src="@drawable/wexner_med_152x75"
             android:layout_width="wrap_content"
             android:layout_height="75dp"
             android:layout_weight="1"
             android:id="@+id/imageView7" />
 
         <ImageView
-            android:src="@drawable/contact_2"
+            android:src="@drawable/hospital_east_152x75"
             android:layout_width="wrap_content"
             android:layout_height="75dp"
             android:id="@+id/imageView8"
             android:layout_weight="1" />
         <ImageView
-            android:src="@drawable/contact_3"
+            android:src="@drawable/wexner_logo_200x200"
             android:layout_width="wrap_content"
             android:layout_height="75dp"
             android:id="@+id/imageView9"
