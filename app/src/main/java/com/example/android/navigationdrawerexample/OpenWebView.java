@@ -19,6 +19,8 @@ public class OpenWebView extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_open_web_view);
+        Button back = (Button) findViewById(R.id.back_button);
+        Button forward = (Button) findViewById(R.id.forward_button);
 
         Intent intent=this.getIntent();
         Bundle bundle=intent.getExtras();
@@ -31,6 +33,8 @@ public class OpenWebView extends Activity {
         webSettings.setDatabaseEnabled(true);
         webView.setWebViewClient(new WebViewClient());
         webView.loadUrl(url);
+        back.setVisibility(View.VISIBLE);
+        forward.setVisibility(View.VISIBLE);
     }
 
     public void onBack(View v) {
@@ -39,13 +43,13 @@ public class OpenWebView extends Activity {
             //App crashed when I tried to make the buttons public variables here
             Button back = (Button) findViewById(R.id.back_button);
             Button forward = (Button) findViewById(R.id.forward_button);
-            if(!webView.canGoBack()){
+            /*if(!webView.canGoBack()){
                 back.setVisibility(View.INVISIBLE);
             }
             if(forward.getVisibility() == View.INVISIBLE){
                 forward.setVisibility(View.VISIBLE);
             }
-
+*/
         } else {
     //something
 
@@ -56,12 +60,13 @@ public class OpenWebView extends Activity {
             webView.goForward();
             Button back = (Button) findViewById(R.id.back_button);
             Button forward = (Button) findViewById(R.id.forward_button);
-            if(!webView.canGoForward()){
+            /*if(!webView.canGoForward()){
                 forward.setVisibility(View.INVISIBLE);
             }
             if(back.getVisibility() == View.INVISIBLE){
                 back.setVisibility(View.VISIBLE);
             }
+            */
         } else {
             //Button forwardbutton = (Button) findViewById(R.id.forward_button);
         }
@@ -71,9 +76,13 @@ public class OpenWebView extends Activity {
     //navigate back to the previous page instead of jump to the first app page
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event) {
-        if ((keyCode == KeyEvent.KEYCODE_BACK) && this.webView.canGoBack()) {
-            this.webView.goBack();
-            return true;
+        Button back = (Button) findViewById(R.id.back_button);
+        Button forward = (Button) findViewById(R.id.forward_button);
+        if ((keyCode == KeyEvent.KEYCODE_BACK)) {
+            //this.webView.goBack();
+            back.setVisibility(View.INVISIBLE);
+            forward.setVisibility(View.INVISIBLE);
+            return super.onKeyDown(keyCode, event);
         }
         return super.onKeyDown(keyCode, event);
     }
