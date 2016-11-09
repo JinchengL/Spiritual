@@ -99,7 +99,7 @@ public class MainActivity extends Activity {
         mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_home,"About us" ));
         mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_video,"Video/ Music" ));
         mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_text,"Sacred Texts" ));
-        mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_text,"Interface Calendar" ));
+        mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_text,"Interfaith Calendar" ));
         mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_contact,"Contact Us" ));
         mTitle = mDrawerTitle = getTitle();
         mPlanetTitles = getResources().getStringArray(R.array.menu_array);
