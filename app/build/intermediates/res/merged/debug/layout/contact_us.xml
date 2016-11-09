@@ -5,12 +5,8 @@
     android:layout_width="fill_parent"
     android:id= "@+id/contactUs_layout"
     android:layout_height="fill_parent"
-    android:layout_marginTop="@dimen/marginforAll"
-    android:layout_marginRight="@dimen/marginforAll"
-    android:layout_marginBottom="@dimen/marginforAll"
-    android:layout_marginLeft="@dimen/marginforAll"
     android:orientation="vertical"
-    android:background="@android:color/darker_gray"
+    android:background="@drawable/statue_background"
     android:weightSum="1">
 
     <LinearLayout

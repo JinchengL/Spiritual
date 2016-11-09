@@ -3,48 +3,48 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Skylor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jar="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_cb2d0a07d0cb53e865691ef8b6bbd44bf0381e09\classes.dex" />
+        sha1="55f8dddf626df867a0c13019eeb286c624546328">
+        <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f038b9d106cc1a1621bf8851c9b68806a22f409/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jar="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2aeb5e46263a884e9d2a37044a3683a82f677022">
+        <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad514fc94b0f7e319d79295a53f32d23a84129a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_0590ada01dde69b61b1314c0f326039c677fd356\classes.dex" />
+        <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_6a0241ab05b6a3822cc1f5ed9d80aac9d671da6c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/Users/Jinchengliu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="9377c787c9946a1bc86590709eaa40436ad114b9">
-        <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e68c24f0ed6edc969b836f989685948f4b71f28f\classes.dex" />
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_1956fb2d59790bc866bfdd1ffd19658baf5ce521/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ac1ca3cb2d92409dfc2cd5cc26ef0c6f8f3ddab0">
-        <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_dccdf6c300b05dcadc8dc15912b298b43b1e2d41\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jar="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_621ce514c6ad81dc95a2d44a2cda0133a922e80b\classes.dex" />
+        <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_9ad8c7483c248ae4b79eb4558536653fc417a3a9/classes.dex" />
     </item>
 
 </items>

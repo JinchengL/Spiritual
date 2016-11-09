@@ -1,51 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86"
-    api-level="22"
+    api-level="24"
     density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="580266288778292"
-    token="-2020604415086078274"
-    verifier="COLD_SWAP_REQUESTED" >
+    timestamp="1452465805340710"
+    token="924658242865638"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="918" />
+        duration="573" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="1191" />
     <task
         name="instant-run-transform"
-        duration="146" />
+        duration="99" />
     <task
         name="verifier"
-        duration="6" />
+        duration="5" />
 
     <artifact
-        location="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-        type="DEX" />
+        location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="578850725152162"
+        timestamp="1450918535856246"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Skylor\Capstone\Spiritual\app\build\outputs\apk\app-debug.apk"
+            location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="579488267608582"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="1452425336777379"
+        verifier="R_CLASS_CHANGE" >
         <artifact
-            location="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
             type="RESOURCES" />
+        <artifact
+            location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
     </build>
     <build
-        timestamp="580266288778292"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="1452465805340710"
+        verifier="COMPATIBLE" >
         <artifact
-            location="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
+            location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

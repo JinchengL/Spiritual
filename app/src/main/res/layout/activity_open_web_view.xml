@@ -21,7 +21,6 @@
     </WebView>
 
     <Button
-        android:text="Back"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/back_button"
@@ -29,7 +28,8 @@
         android:onClick="onBack"
         android:shadowColor="#4f70a9"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentLeft="true"/>
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/backbutton" />
 
     <Button
         android:text="Forward"

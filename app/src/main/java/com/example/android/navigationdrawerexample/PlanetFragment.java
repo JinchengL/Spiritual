@@ -105,7 +105,7 @@ public class PlanetFragment extends Fragment {
 
         }
         else if(i ==4){
-            rootView = inflater.inflate(R.layout.activity_open_web_view,container,false);
+            rootView = inflater.inflate(R.layout.interfaith_calendar,container,false);
             //we do not need the layout to bw activity_open_web_view in this case;
     //do we want it to show in the right side? It depends on the content of the calendar
 

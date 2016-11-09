@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -12,14 +12,14 @@
                     "endOffset": 304
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 694,
+                        "startOffset": 676,
                         "endLine": 26,
                         "endColumn": 19,
-                        "endOffset": 951
+                        "endOffset": 925
                     }
                 }
             },
@@ -32,13 +32,13 @@
                     "endOffset": 362
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 347,
+                        "startOffset": 339,
                         "endColumn": 57,
-                        "endOffset": 400
+                        "endOffset": 392
                     }
                 }
             },
@@ -51,13 +51,13 @@
                     "endOffset": 418
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 406,
+                        "startOffset": 397,
                         "endColumn": 55,
-                        "endOffset": 457
+                        "endOffset": 448
                     }
                 }
             },
@@ -70,13 +70,13 @@
                     "endOffset": 464
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 206,
+                        "startOffset": 201,
                         "endColumn": 45,
-                        "endOffset": 247
+                        "endOffset": 242
                     }
                 }
             },
@@ -89,13 +89,13 @@
                     "endOffset": 519
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 102,
+                        "startOffset": 99,
                         "endColumn": 54,
-                        "endOffset": 152
+                        "endOffset": 149
                     }
                 }
             },
@@ -108,13 +108,13 @@
                     "endOffset": 563
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 57,
+                        "startOffset": 55,
                         "endColumn": 43,
-                        "endOffset": 96
+                        "endOffset": 94
                     }
                 }
             },
@@ -127,13 +127,13 @@
                     "endOffset": 609
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 300,
+                        "startOffset": 293,
                         "endColumn": 45,
-                        "endOffset": 341
+                        "endOffset": 334
                     }
                 }
             },
@@ -146,13 +146,13 @@
                     "endOffset": 655
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 253,
+                        "startOffset": 247,
                         "endColumn": 45,
-                        "endOffset": 294
+                        "endOffset": 288
                     }
                 }
             },
@@ -165,13 +165,13 @@
                     "endOffset": 699
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 568,
+                        "startOffset": 556,
                         "endColumn": 43,
-                        "endOffset": 607
+                        "endOffset": 595
                     }
                 }
             },
@@ -184,13 +184,13 @@
                     "endOffset": 746
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 158,
+                        "startOffset": 154,
                         "endColumn": 46,
-                        "endOffset": 200
+                        "endOffset": 196
                     }
                 }
             },
@@ -203,13 +203,13 @@
                     "endOffset": 797
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 463,
+                        "startOffset": 453,
                         "endColumn": 50,
-                        "endOffset": 509
+                        "endOffset": 499
                     }
                 }
             },
@@ -222,13 +222,13 @@
                     "endOffset": 849
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 515,
+                        "startOffset": 504,
                         "endColumn": 51,
-                        "endOffset": 562
+                        "endOffset": 551
                     }
                 }
             },
@@ -241,13 +241,13 @@
                     "endOffset": 905
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1087,
+                        "startOffset": 1058,
                         "endColumn": 55,
-                        "endOffset": 1138
+                        "endOffset": 1109
                     }
                 }
             },
@@ -260,13 +260,13 @@
                     "endOffset": 961
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 637,
+                        "startOffset": 620,
                         "endColumn": 55,
-                        "endOffset": 688
+                        "endOffset": 671
                     }
                 }
             },
@@ -279,13 +279,13 @@
                     "endOffset": 1048
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 1144,
+                        "startOffset": 1114,
                         "endColumn": 86,
-                        "endOffset": 1226
+                        "endOffset": 1196
                     }
                 }
             },
@@ -298,13 +298,13 @@
                     "endOffset": 1113
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1021,
+                        "startOffset": 993,
                         "endColumn": 64,
-                        "endOffset": 1081
+                        "endOffset": 1053
                     }
                 }
             },
@@ -317,13 +317,13 @@
                     "endOffset": 1176
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 957,
+                        "startOffset": 930,
                         "endColumn": 62,
-                        "endOffset": 1015
+                        "endOffset": 988
                     }
                 }
             },
@@ -336,13 +336,13 @@
                     "endOffset": 1245
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1232,
+                        "startOffset": 1201,
                         "endColumn": 68,
-                        "endOffset": 1296
+                        "endOffset": 1265
                     }
                 }
             },
@@ -355,13 +355,13 @@
                     "endOffset": 1306
                 },
                 "from": {
-                    "file": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 1302,
+                        "startOffset": 1270,
                         "endColumn": 60,
-                        "endOffset": 1358
+                        "endOffset": 1326
                     }
                 }
             }

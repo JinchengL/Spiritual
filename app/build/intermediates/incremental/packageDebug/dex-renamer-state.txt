@@ -1,7 +1,7 @@
-#Wed Nov 09 08:46:36 EST 2016
-base.0=C\:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dccdf6c300b05dcadc8dc15912b298b43b1e2d41
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e68c24f0ed6edc969b836f989685948f4b71f28f\\classes.dex
-base.1=C\:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e68c24f0ed6edc969b836f989685948f4b71f28f
-file.0=C\:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dccdf6c300b05dcadc8dc15912b298b43b1e2d41\\classes.dex
+#Wed Nov 09 15:51:39 EST 2016
+base.0=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f038b9d106cc1a1621bf8851c9b68806a22f409
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad514fc94b0f7e319d79295a53f32d23a84129a4/classes.dex
+base.1=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad514fc94b0f7e319d79295a53f32d23a84129a4
+file.0=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f038b9d106cc1a1621bf8851c9b68806a22f409/classes.dex

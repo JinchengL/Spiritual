@@ -1,38 +1,42 @@
 [
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wexner_med_152x75.jpg",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\wexner_med_152x75.jpg"
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/hospital_east.jpg",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/hospital_east.jpg"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hospital_east_125x62.jpg",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\hospital_east_125x62.jpg"
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/earth.jpg",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/earth.jpg"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wexner_logo_100x100.png",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\wexner_logo_100x100.png"
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/wexner_med_152x75.jpg",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/wexner_med_152x75.jpg"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\earth.jpg",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\earth.jpg"
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/wexner_logo_200x200.png",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/wexner_logo_200x200.png"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hospital_east.jpg",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\hospital_east.jpg"
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/wexner_med_125x62.jpg",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/wexner_med_125x62.jpg"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wexner_logo_200x200.png",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\wexner_logo_200x200.png"
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/wexner_med.jpg",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/wexner_med.jpg"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wexner_med_125x62.jpg",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\wexner_med_125x62.jpg"
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/hospital_east_152x75.jpg",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/hospital_east_152x75.jpg"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hospital_east_152x75.jpg",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\hospital_east_152x75.jpg"
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/wexner_logo_100x100.png",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/wexner_logo_100x100.png"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wexner_med.jpg",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\wexner_med.jpg"
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/hospital_east_125x62.jpg",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/hospital_east_125x62.jpg"
+    },
+    {
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/statue_of_hope.jpg",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/statue_of_hope.jpg"
     }
 ]
