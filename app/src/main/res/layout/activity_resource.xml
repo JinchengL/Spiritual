@@ -19,7 +19,7 @@
         android:layout_weight="1">
 
         <ImageButton
-            android:src="@drawable/muslim"
+            android:src="@drawable/christian_symbol_122x173"
             android:layout_gravity="center"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -45,7 +45,7 @@
         android:layout_weight="1">
 
         <ImageButton
-            android:src="@drawable/muslim"
+            android:src="@drawable/buddhist_231x173"
             android:layout_gravity="center"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -59,7 +59,7 @@
             android:layout_weight="1" />
 
         <ImageButton
-            android:src="@drawable/muslim"
+            android:src="@drawable/jewish_symbol_187x173"
             android:layout_gravity="center"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
