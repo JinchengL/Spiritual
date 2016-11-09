@@ -33,13 +33,21 @@ public final class R {
         public static final int contact_3=0x7f020003;
         public static final int drawer_shadow=0x7f020004;
         public static final int earth=0x7f020005;
-        public static final int ic_drawer=0x7f020006;
-        public static final int ic_drawer_icon_contact=0x7f020007;
-        public static final int ic_drawer_icon_home=0x7f020008;
-        public static final int ic_drawer_icon_text=0x7f020009;
-        public static final int ic_drawer_icon_video=0x7f02000a;
-        public static final int muslim=0x7f02000b;
-        public static final int osu_logo=0x7f02000c;
+        public static final int hospital_east=0x7f020006;
+        public static final int hospital_east_125x62=0x7f020007;
+        public static final int hospital_east_152x75=0x7f020008;
+        public static final int ic_drawer=0x7f020009;
+        public static final int ic_drawer_icon_contact=0x7f02000a;
+        public static final int ic_drawer_icon_home=0x7f02000b;
+        public static final int ic_drawer_icon_text=0x7f02000c;
+        public static final int ic_drawer_icon_video=0x7f02000d;
+        public static final int muslim=0x7f02000e;
+        public static final int osu_logo=0x7f02000f;
+        public static final int wexner_logo_100x100=0x7f020010;
+        public static final int wexner_logo_200x200=0x7f020011;
+        public static final int wexner_med=0x7f020012;
+        public static final int wexner_med_125x62=0x7f020013;
+        public static final int wexner_med_152x75=0x7f020014;
     }
     public static final class id {
         public static final int aboutUs_layout=0x7f080000;

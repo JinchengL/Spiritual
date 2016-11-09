@@ -5,30 +5,30 @@
     density="mdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="459696273241851"
+    timestamp="542735572873689"
     token="-2020604415086078274"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="METHOD_DELETED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="658" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="47" />
     <task
         name="verifier"
-        duration="0" />
+        duration="9" />
 
     <artifact
         location="C:\Users\Skylor\Capstone\Spiritual\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="459696273241851"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="542735572873689"
+        verifier="METHOD_DELETED" >
         <artifact
             location="C:\Users\Skylor\Capstone\Spiritual\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />

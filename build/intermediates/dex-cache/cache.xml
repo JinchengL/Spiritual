@@ -3,29 +3,11 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Skylor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_cb2d0a07d0cb53e865691ef8b6bbd44bf0381e09.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_0590ada01dde69b61b1314c0f326039c677fd356.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="55789194ac8518f1bf00dbbb35bf58aa4c10d0de">
+        sha1="e289425069728632af03ce9ca4e402443c708294">
         <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\pre-dexed\debug\instant-run_e68c24f0ed6edc969b836f989685948f4b71f28f.jar" />
     </item>
     <item
@@ -43,8 +25,26 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="3db254044d1e5170ded39151855a10bb029838e3">
+        sha1="d3200792e93f095bcf1571883f973103f0255cd1">
         <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_dccdf6c300b05dcadc8dc15912b298b43b1e2d41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Skylor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_cb2d0a07d0cb53e865691ef8b6bbd44bf0381e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_0590ada01dde69b61b1314c0f326039c677fd356.jar" />
     </item>
 
 </items>

@@ -25,6 +25,7 @@ import android.app.FragmentManager;
 import android.app.SearchManager;
 import android.content.Context;
 import android.content.Intent;
+import android.content.res.AssetManager;
 import android.content.res.Configuration;
 import android.graphics.Color;
 import android.os.Bundle;
@@ -78,6 +79,7 @@ import org.w3c.dom.Text;
  * for example enabling or disabling a data overlay on top of the current content.</p>
  */
 public class MainActivity extends Activity {
+
     private DrawerLayout mDrawerLayout;
     private LinearLayout mLinearLayout;
     private ListView mDrawerList;
@@ -209,6 +211,9 @@ public class MainActivity extends Activity {
 
             titleView.setText( mNavItems.get(position).mTitle );
             iconView.setImageResource(mNavItems.get(position).mIcon);
+           // TextView about = (TextView) view.findViewById(R.id.textView10);
+           // String eda = "TESTA";
+            //about.setText(eda);
 
             return view;
         }
@@ -264,6 +269,7 @@ public class MainActivity extends Activity {
         // update the main content by replacing fragments
         Fragment fragment = new PlanetFragment();
         Bundle args = new Bundle();
+
         args.putInt(PlanetFragment.FRAGMENT_NUMBER, position);
         fragment.setArguments(args);
 

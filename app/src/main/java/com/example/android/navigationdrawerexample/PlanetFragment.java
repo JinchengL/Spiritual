@@ -2,10 +2,14 @@ package com.example.android.navigationdrawerexample;
 
 import android.app.Fragment;
 
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.res.AssetManager;
 import android.os.Bundle;
 
+import android.renderscript.ScriptGroup;
+import android.text.Html;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,6 +18,12 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.ImageButton;
+import android.widget.TextView;
+
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.InputStream;
 
 /**
  * Fragment that appears in the "content_frame", shows a planet
@@ -28,7 +38,7 @@ public class PlanetFragment extends Fragment {
     }
 
     @Override
-    public View onCreateView(final LayoutInflater inflater,final ViewGroup container,
+    public View onCreateView(final LayoutInflater inflater, final ViewGroup container,
                              Bundle savedInstanceState) {
         final View rootView;
         int i = getArguments().getInt(FRAGMENT_NUMBER);
@@ -39,6 +49,31 @@ public class PlanetFragment extends Fragment {
 
         if(i == 1){
             rootView = inflater.inflate(R.layout.about_us,container,false);
+            TextView about = (TextView) rootView.findViewById(R.id.textView10);
+
+            /*
+            AssetManager assetman=myContext.getAssets();
+            try {
+                String[] files = assetman.list("Files");
+                for(int k = 0;k < files.length;k++){
+                    about.append("\n Files=>"+i+"Name"+files);
+                }
+            }
+            catch (Exception e){
+                e.printStackTrace();
+            }
+            InputStream input;
+            try{
+                input=assetman.open("abouttext.docx");
+                int size = input.available();
+                byte[] buffer = new byte[size];
+                input.read(buffer);
+                input.close();
+                String text = new String(buffer);
+                about.setText(Html.fromHtml(text));
+            }catch (Exception e){
+                e.printStackTrace();
+            }*/
 
         }
         else if(i == 2){
@@ -75,7 +110,7 @@ public class PlanetFragment extends Fragment {
             //start a new activity
             Intent intent=new Intent(getActivity(),OpenWebView.class);
             Bundle bundle=new Bundle();
-            bundle.putString("url","http://www.stackoverflow.com");
+            bundle.putString("url","http://www.interfaithcalendar.org/");
             intent.putExtras(bundle);
             startActivity(intent);
 
