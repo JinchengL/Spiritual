@@ -1,5 +1,6 @@
 package com.example.android.navigationdrawerexample;
 
+import android.annotation.TargetApi;
 import android.app.Fragment;
 
 import android.content.Context;
@@ -28,6 +29,7 @@ import java.io.InputStream;
 /**
  * Fragment that appears in the "content_frame", shows a planet
  */
+
 public class PlanetFragment extends Fragment {
     private View web;
     public static final String FRAGMENT_NUMBER = "fragment_number";
@@ -41,6 +43,7 @@ public class PlanetFragment extends Fragment {
     public View onCreateView(final LayoutInflater inflater, final ViewGroup container,
                              Bundle savedInstanceState) {
         final View rootView;
+
         int i = getArguments().getInt(FRAGMENT_NUMBER);
 
 
@@ -51,8 +54,8 @@ public class PlanetFragment extends Fragment {
             rootView = inflater.inflate(R.layout.about_us,container,false);
             TextView about = (TextView) rootView.findViewById(R.id.textView10);
 
-            /*
-            AssetManager assetman=myContext.getAssets();
+
+            /*AssetManager assetman=myContext.getAssets();
             try {
                 String[] files = assetman.list("Files");
                 for(int k = 0;k < files.length;k++){
@@ -73,9 +76,9 @@ public class PlanetFragment extends Fragment {
                 about.setText(Html.fromHtml(text));
             }catch (Exception e){
                 e.printStackTrace();
-            }*/
-
-        }
+            }
+*/
+         }
         else if(i == 2){
             rootView = inflater.inflate(R.layout.video,container,false);
 

@@ -1,4 +1,7 @@
-#Tue Nov 08 22:44:24 EST 2016
-base.0=C\:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Wed Nov 09 08:46:36 EST 2016
+base.0=C\:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dccdf6c300b05dcadc8dc15912b298b43b1e2d41
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=C\:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=C\:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e68c24f0ed6edc969b836f989685948f4b71f28f\\classes.dex
+base.1=C\:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e68c24f0ed6edc969b836f989685948f4b71f28f
+file.0=C\:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dccdf6c300b05dcadc8dc15912b298b43b1e2d41\\classes.dex

@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer_icon_home.png"
     },
     {
+        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\christian_symbol_122x173.png",
+        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\christian_symbol_122x173.png"
+    },
+    {
         "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
         "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
     },

@@ -28,11 +28,11 @@
         "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\wexner_med_125x62.jpg"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wexner_med.jpg",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\wexner_med.jpg"
-    },
-    {
         "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hospital_east_152x75.jpg",
         "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\hospital_east_152x75.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wexner_med.jpg",
+        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\wexner_med.jpg"
     }
 ]

@@ -20,12 +20,12 @@
         "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\layout\\video.xml"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\layout\\about_us.xml"
-    },
-    {
         "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_page.xml",
         "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\layout\\home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\layout\\about_us.xml"
     },
     {
         "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_planet.xml",

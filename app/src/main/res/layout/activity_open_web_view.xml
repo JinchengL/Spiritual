@@ -19,4 +19,26 @@
         android:layout_height="match_parent">
 
     </WebView>
+
+    <Button
+        android:text="Back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/back_button"
+        android:clickable="true"
+        android:onClick="onBack"
+        android:shadowColor="#4f70a9"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"/>
+
+    <Button
+        android:text="Forward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:onClick="onForward"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:shadowColor="#466894"
+        android:id="@+id/forward_button" />
 </RelativeLayout>
