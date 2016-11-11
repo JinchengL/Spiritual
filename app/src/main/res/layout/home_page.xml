@@ -70,6 +70,13 @@
             android:id="@+id/radioButton5" />
 
 
+        <ImageView
+            android:src="@drawable/speech"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView"
+            android:adjustViewBounds="false"
+            android:elevation="0dp" />
 
         <TextView
             android:text="Quote of the Day"
