@@ -1,42 +1,42 @@
 [
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer_icon_home.png",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer_icon_home.png"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\action_search.png",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\action_search.png"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\christian_symbol_122x173.png",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\christian_symbol_122x173.png"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer_icon_home.png",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer_icon_home.png"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer_icon_video.png",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer_icon_video.png"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer_icon_text.png",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer_icon_text.png"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\action_search.png",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\action_search.png"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer_icon_contact.png",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer_icon_contact.png"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer_icon_contact.png",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer_icon_contact.png"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drawer_shadow.9.png",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer_icon_text.png",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer_icon_text.png"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\backbutton.png",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\backbutton.png"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\osu_logo.png",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\osu_logo.png"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer_icon_video.png",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer_icon_video.png"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\backbutton.png",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\backbutton.png"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\osu_logo.png",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\osu_logo.png"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drawer_shadow.9.png",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\christian_symbol_122x173.png",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable-hdpi\\christian_symbol_122x173.png"
     }
 ]

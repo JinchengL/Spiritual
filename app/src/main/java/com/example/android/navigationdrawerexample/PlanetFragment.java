@@ -18,8 +18,13 @@ import android.view.ViewGroup;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.FrameLayout;
 import android.widget.ImageButton;
+import android.widget.ImageSwitcher;
+import android.widget.ImageView;
+import android.widget.RadioButton;
 import android.widget.TextView;
+import android.widget.ViewSwitcher;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -33,6 +38,8 @@ import java.io.InputStream;
 public class PlanetFragment extends Fragment {
     private View web;
     public static final String FRAGMENT_NUMBER = "fragment_number";
+
+
 
 
     public PlanetFragment() {
@@ -126,8 +133,43 @@ public class PlanetFragment extends Fragment {
         else{
             rootView = inflater.inflate(R.layout.home_page,container,false);}
 
+        final Integer[] images = {R.drawable.han, R.drawable.luke, R.drawable.mace, R.drawable.vadar, R.drawable.yoda};
+        RadioButton radio1, radio2, radio3, radio4, radio5;
+        ImageSwitcher imageSwitcher;
+        int counter = 0;
+
+        radio1 = (RadioButton)rootView.findViewById(R.id.radioButton);
+        radio2 = (RadioButton)rootView.findViewById(R.id.radioButton2);
+        radio3 = (RadioButton)rootView.findViewById(R.id.radioButton3);
+        radio4 = (RadioButton)rootView.findViewById(R.id.radioButton4);
+        radio5 = (RadioButton)rootView.findViewById(R.id.radioButton5);
+
+
+        imageSwitcher = (ImageSwitcher)rootView.findViewById(R.id.imageSwitcher);
+        imageSwitcher.setFactory(new ViewSwitcher.ViewFactory() {
+            @Override
+            public View makeView() {
+                ImageView imageView = new ImageView(getContext());
+                imageView.setScaleType(ImageView.ScaleType.CENTER_INSIDE);
+                imageView.setLayoutParams(new ImageSwitcher.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
+                return imageView;
+            }
+        });
+
         String planet = getResources().getStringArray(R.array.menu_array)[i];
         getActivity().setTitle(planet);
+
+        ImageButton calendarButton = (ImageButton)rootView.findViewById(R.id.calendarButton);
+       // calendarButton.setOnClickListener();
+
+        radio1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onRadioButtonClicked(View v){
+
+            }
+        });
+
+
         return rootView;
 
     }

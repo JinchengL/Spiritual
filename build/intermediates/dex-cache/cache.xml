@@ -2,49 +2,49 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\Skylor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_cb2d0a07d0cb53e865691ef8b6bbd44bf0381e09.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_0590ada01dde69b61b1314c0f326039c677fd356.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9835f9167083277b786e20ec6f373e6f62463cd">
-        <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\pre-dexed\debug\instant-run_e68c24f0ed6edc969b836f989685948f4b71f28f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        is-multidex="true"
+        jar="E:\Documents\Spiritual\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_621ce514c6ad81dc95a2d44a2cda0133a922e80b.jar" />
+        <dex dex="E:\Documents\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_ff1b76a9d0febfff7379536d6165999fba97567d\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        is-multidex="true"
+        jar="E:\Documents\Spiritual\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="7a5437684022810fa34d72cad06439134587960d">
-        <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_dccdf6c300b05dcadc8dc15912b298b43b1e2d41.jar" />
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Documents\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_56d2e860e4aa221fcd68642699bef641121964ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Spiritual\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5b2cc72f6ab4fc7df3f0aa1f612d8d6ef1975ca1">
+        <dex dex="E:\Documents\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b857b0b367bae2caba3b7d8245114d5230fbb492\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Documents\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_0f6553860408c70fcbf9af741b0e3a91ead8e096\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Spiritual\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e2cf6baccdde6197f26b25f372bd2d0b78593ce3">
+        <dex dex="E:\Documents\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ef7fa84ec8bc7b4466459a426f52d59949503cb7\classes.dex" />
     </item>
 
 </items>

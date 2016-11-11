@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
-    api-level="16"
-    density="mdpi"
+    abi="x86"
+    api-level="24"
+    density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="607804646258076"
-    token="-2020604415086078274"
+    timestamp="80649363638249"
+    token="-7510724536624732706"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="591" />
+        duration="136" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="488" />
+        duration="51" />
     <task
         name="verifier"
-        duration="62" />
+        duration="8" />
 
     <artifact
-        location="C:\Users\Skylor\Capstone\Spiritual\app\build\outputs\apk\app-debug.apk"
+        location="E:\Documents\Spiritual\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="607804646258076"
+        timestamp="80649363638249"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Skylor\Capstone\Spiritual\app\build\outputs\apk\app-debug.apk"
+            location="E:\Documents\Spiritual\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

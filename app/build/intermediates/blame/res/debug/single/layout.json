@@ -1,42 +1,42 @@
 [
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_web_view.xml",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\layout\\activity_open_web_view.xml"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_page.xml",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\layout\\home_page.xml"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resource.xml",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\layout\\activity_resource.xml"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resource.xml",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\layout\\activity_resource.xml"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video.xml",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\layout\\video.xml"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_planet.xml",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\layout\\fragment_planet.xml"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_page.xml",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\layout\\home_page.xml"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\layout\\contact_us.xml"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\layout\\about_us.xml"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\layout\\about_us.xml"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_planet.xml",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\layout\\fragment_planet.xml"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interfaith_calendar.xml",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\layout\\interfaith_calendar.xml"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interfaith_calendar.xml",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\layout\\interfaith_calendar.xml"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_web_view.xml",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\layout\\activity_open_web_view.xml"
     },
     {
-        "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
-        "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\layout\\contact_us.xml"
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video.xml",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\layout\\video.xml"
     }
 ]
