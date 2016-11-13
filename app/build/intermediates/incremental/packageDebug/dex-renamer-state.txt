@@ -1,4 +1,4 @@
-#Thu Nov 10 18:39:36 EST 2016
+#Thu Nov 10 22:28:03 EST 2016
 base.0=E\:\\Documents\\Spiritual\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_b857b0b367bae2caba3b7d8245114d5230fbb492
 renamed.1=classes.dex
 renamed.0=classes2.dex

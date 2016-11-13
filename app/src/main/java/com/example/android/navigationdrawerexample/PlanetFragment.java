@@ -15,6 +15,8 @@ import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
@@ -23,6 +25,7 @@ import android.widget.ImageButton;
 import android.widget.ImageSwitcher;
 import android.widget.ImageView;
 import android.widget.RadioButton;
+import android.widget.RadioGroup;
 import android.widget.TextView;
 import android.widget.ViewSwitcher;
 
@@ -135,8 +138,8 @@ public class PlanetFragment extends Fragment {
 
         final Integer[] images = {R.drawable.han, R.drawable.luke, R.drawable.mace, R.drawable.vadar, R.drawable.yoda};
         RadioButton radio1, radio2, radio3, radio4, radio5;
-        ImageSwitcher imageSwitcher;
-        int counter = 0;
+        final ImageSwitcher imageSwitcher;
+        final int counter = 0;
 
         radio1 = (RadioButton)rootView.findViewById(R.id.radioButton);
         radio2 = (RadioButton)rootView.findViewById(R.id.radioButton2);
@@ -156,18 +159,51 @@ public class PlanetFragment extends Fragment {
             }
         });
 
+        imageSwitcher.setImageResource(images[0]);
         String planet = getResources().getStringArray(R.array.menu_array)[i];
         getActivity().setTitle(planet);
 
         ImageButton calendarButton = (ImageButton)rootView.findViewById(R.id.calendarButton);
        // calendarButton.setOnClickListener();
 
-        radio1.setOnClickListener(new View.OnClickListener() {
+        Animation in = AnimationUtils.loadAnimation(getContext(), R.anim.in);
+        Animation out = AnimationUtils.loadAnimation(getContext(), R.anim.out);
+
+
+        imageSwitcher.setOutAnimation(out);
+        imageSwitcher.setInAnimation(in);
+
+        RadioGroup radioGroup = (RadioGroup)rootView.findViewById(R.id.radioGroup);
+
+        radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
-            public void onRadioButtonClicked(View v){
+            public void onCheckedChanged(RadioGroup radioGroup, int checkedID) {
+                int counter = radioGroup.indexOfChild(rootView.findViewById(checkedID));
+
+                switch (counter){
+                    case 0:
+                        imageSwitcher.setImageResource(images[0]);
+                        break;
+                    case 1:
+                        imageSwitcher.setImageResource(images[1]);
+                        break;
+                    case 2:
+                        imageSwitcher.setImageResource(images[2]);
+                        break;
+                    case 3:
+                        imageSwitcher.setImageResource(images[3]);
+                        break;
+                    case 4:
+                        imageSwitcher.setImageResource(images[4]);
+                        break;
+                    default:
+                        imageSwitcher.setImageResource(images[0]);
+                        break;
+                }
 
             }
         });
+
 
 
         return rootView;

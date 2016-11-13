@@ -24,11 +24,11 @@
         "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable-mdpi\\osu_logo.png"
     },
     {
-        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
-        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
-    },
-    {
         "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\action_search.png",
         "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable-mdpi\\action_search.png"
+    },
+    {
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_drawer.png",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
     }
 ]

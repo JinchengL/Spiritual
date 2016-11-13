@@ -8,23 +8,27 @@
 package com.example.android.navigationdrawerexample;
 
 public final class R {
+    public static final class anim {
+        public static final int in=0x7f040000;
+        public static final int out=0x7f040001;
+    }
     public static final class array {
-        public static final int menu_array=0x7f050000;
+        public static final int menu_array=0x7f060000;
     }
     public static final class attr {
     }
     public static final class dimen {
-        public static final int activity_horizontal_margin=0x7f040000;
-        public static final int activity_vertical_margin=0x7f040001;
-        public static final int contact_height=0x7f040002;
-        public static final int drawer_content_padding=0x7f040003;
-        public static final int drawer_size=0x7f040004;
-        public static final int font_size_text=0x7f040005;
-        public static final int fontsize_title=0x7f040006;
-        public static final int marginforAll=0x7f040007;
-        public static final int profile_height=0x7f040008;
-        public static final int resource_marginLeft=0x7f040009;
-        public static final int resource_marginRight=0x7f04000a;
+        public static final int activity_horizontal_margin=0x7f050000;
+        public static final int activity_vertical_margin=0x7f050001;
+        public static final int contact_height=0x7f050002;
+        public static final int drawer_content_padding=0x7f050003;
+        public static final int drawer_size=0x7f050004;
+        public static final int font_size_text=0x7f050005;
+        public static final int fontsize_title=0x7f050006;
+        public static final int marginforAll=0x7f050007;
+        public static final int profile_height=0x7f050008;
+        public static final int resource_marginLeft=0x7f050009;
+        public static final int resource_marginRight=0x7f05000a;
     }
     public static final class drawable {
         public static final int action_search=0x7f020000;
@@ -51,64 +55,66 @@ public final class R {
         public static final int mace=0x7f020015;
         public static final int muslim=0x7f020016;
         public static final int osu_logo=0x7f020017;
-        public static final int statue_background=0x7f020018;
-        public static final int statue_of_hope=0x7f020019;
-        public static final int vadar=0x7f02001a;
-        public static final int wexner_logo_100x100=0x7f02001b;
-        public static final int wexner_logo_200x200=0x7f02001c;
-        public static final int wexner_med=0x7f02001d;
-        public static final int wexner_med_125x62=0x7f02001e;
-        public static final int wexner_med_152x75=0x7f02001f;
-        public static final int yoda=0x7f020020;
+        public static final int speech=0x7f020018;
+        public static final int statue_background=0x7f020019;
+        public static final int statue_of_hope=0x7f02001a;
+        public static final int vadar=0x7f02001b;
+        public static final int wexner_logo_100x100=0x7f02001c;
+        public static final int wexner_logo_200x200=0x7f02001d;
+        public static final int wexner_med=0x7f02001e;
+        public static final int wexner_med_125x62=0x7f02001f;
+        public static final int wexner_med_152x75=0x7f020020;
+        public static final int yoda=0x7f020021;
     }
     public static final class id {
-        public static final int aboutUs_layout=0x7f080000;
-        public static final int action_websearch=0x7f08002e;
-        public static final int activity_open_web_view=0x7f08000a;
-        public static final int activity_resource=0x7f08000e;
-        public static final int avatar=0x7f080004;
-        public static final int back_button=0x7f08000c;
-        public static final int calendarButton=0x7f08002c;
-        public static final int contactUs_layout=0x7f080013;
-        public static final int content_frame=0x7f080008;
-        public static final int drawer_layout=0x7f080006;
-        public static final int forward_button=0x7f08000d;
-        public static final int home_layout=0x7f080023;
-        public static final int home_page_layout=0x7f080024;
-        public static final int icon=0x7f080020;
-        public static final int image=0x7f080022;
-        public static final int imageButton1=0x7f080011;
-        public static final int imageButton2=0x7f080012;
-        public static final int imageButton3=0x7f080010;
-        public static final int imageButton4=0x7f08000f;
-        public static final int imageSwitcher=0x7f08002b;
-        public static final int imageView7=0x7f080014;
-        public static final int imageView8=0x7f080015;
-        public static final int imageView9=0x7f080016;
-        public static final int layout=0x7f080002;
-        public static final int left_drawer=0x7f080007;
-        public static final int profileBox=0x7f080003;
-        public static final int radioButton=0x7f080025;
-        public static final int radioButton2=0x7f080026;
-        public static final int radioButton3=0x7f080027;
-        public static final int radioButton4=0x7f080028;
-        public static final int radioButton5=0x7f080029;
-        public static final int text1=0x7f080021;
-        public static final int textView=0x7f080019;
-        public static final int textView10=0x7f080001;
-        public static final int textView11=0x7f080009;
-        public static final int textView2=0x7f080018;
-        public static final int textView3=0x7f080017;
-        public static final int textView4=0x7f08001c;
-        public static final int textView5=0x7f08001b;
-        public static final int textView6=0x7f08001a;
-        public static final int textView7=0x7f08001f;
-        public static final int textView8=0x7f08001e;
-        public static final int textView9=0x7f08001d;
-        public static final int textViewQOTD=0x7f08002a;
-        public static final int userName=0x7f080005;
-        public static final int video_layout=0x7f08002d;
-        public static final int webview=0x7f08000b;
+        public static final int aboutUs_layout=0x7f090000;
+        public static final int action_websearch=0x7f09002f;
+        public static final int activity_open_web_view=0x7f09000a;
+        public static final int activity_resource=0x7f09000e;
+        public static final int avatar=0x7f090004;
+        public static final int back_button=0x7f09000c;
+        public static final int calendarButton=0x7f090027;
+        public static final int contactUs_layout=0x7f090013;
+        public static final int content_frame=0x7f090008;
+        public static final int drawer_layout=0x7f090006;
+        public static final int forward_button=0x7f09000d;
+        public static final int home_layout=0x7f090023;
+        public static final int icon=0x7f090020;
+        public static final int image=0x7f090022;
+        public static final int imageButton1=0x7f090011;
+        public static final int imageButton2=0x7f090012;
+        public static final int imageButton3=0x7f090010;
+        public static final int imageButton4=0x7f09000f;
+        public static final int imageSwitcher=0x7f090026;
+        public static final int imageView=0x7f090024;
+        public static final int imageView7=0x7f090014;
+        public static final int imageView8=0x7f090015;
+        public static final int imageView9=0x7f090016;
+        public static final int layout=0x7f090002;
+        public static final int left_drawer=0x7f090007;
+        public static final int profileBox=0x7f090003;
+        public static final int radioButton=0x7f090029;
+        public static final int radioButton2=0x7f09002a;
+        public static final int radioButton3=0x7f09002b;
+        public static final int radioButton4=0x7f09002c;
+        public static final int radioButton5=0x7f09002d;
+        public static final int radioGroup=0x7f090028;
+        public static final int text1=0x7f090021;
+        public static final int textView=0x7f090019;
+        public static final int textView10=0x7f090001;
+        public static final int textView11=0x7f090009;
+        public static final int textView2=0x7f090018;
+        public static final int textView3=0x7f090017;
+        public static final int textView4=0x7f09001c;
+        public static final int textView5=0x7f09001b;
+        public static final int textView6=0x7f09001a;
+        public static final int textView7=0x7f09001f;
+        public static final int textView8=0x7f09001e;
+        public static final int textView9=0x7f09001d;
+        public static final int textViewQOTD=0x7f090025;
+        public static final int userName=0x7f090005;
+        public static final int video_layout=0x7f09002e;
+        public static final int webview=0x7f09000b;
     }
     public static final class layout {
         public static final int about_us=0x7f030000;
@@ -123,15 +129,15 @@ public final class R {
         public static final int video=0x7f030009;
     }
     public static final class menu {
-        public static final int main=0x7f070000;
+        public static final int main=0x7f080000;
     }
     public static final class string {
-        public static final int action_websearch=0x7f060000;
-        public static final int app_name=0x7f060001;
-        public static final int app_not_available=0x7f060002;
-        public static final int drawer_close=0x7f060003;
-        public static final int drawer_open=0x7f060004;
-        public static final int title_activity_open_web_view=0x7f060005;
-        public static final int title_activity_resource=0x7f060006;
+        public static final int action_websearch=0x7f070000;
+        public static final int app_name=0x7f070001;
+        public static final int app_not_available=0x7f070002;
+        public static final int drawer_close=0x7f070003;
+        public static final int drawer_open=0x7f070004;
+        public static final int title_activity_open_web_view=0x7f070005;
+        public static final int title_activity_resource=0x7f070006;
     }
 }

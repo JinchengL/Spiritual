@@ -4,6 +4,10 @@
         "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable\\wexner_med_125x62.jpg"
     },
     {
+        "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speech.png",
+        "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable\\speech.png"
+    },
+    {
         "merged": "E:\\Documents\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hospital_east_152x75.jpg",
         "source": "E:\\Documents\\Spiritual\\app\\src\\main\\res\\drawable\\hospital_east_152x75.jpg"
     },
