@@ -4,6 +4,10 @@
         "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/hospital_east.jpg"
     },
     {
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/statue_background.png",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/statue_background.png"
+    },
+    {
         "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/earth.jpg",
         "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/earth.jpg"
     },

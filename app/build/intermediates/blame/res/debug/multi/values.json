@@ -294,8 +294,29 @@
                     "startLine": 25,
                     "startColumn": 4,
                     "startOffset": 1053,
+                    "endLine": 26,
+                    "endColumn": 9,
+                    "endOffset": 1285
+                },
+                "from": {
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1331,
+                        "endLine": 34,
+                        "endColumn": 9,
+                        "endOffset": 1563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1290,
                     "endColumn": 64,
-                    "endOffset": 1113
+                    "endOffset": 1350
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
@@ -310,11 +331,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1118,
+                    "startOffset": 1355,
                     "endColumn": 62,
-                    "endOffset": 1176
+                    "endOffset": 1413
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
@@ -329,11 +350,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1181,
+                    "startOffset": 1418,
                     "endColumn": 68,
-                    "endOffset": 1245
+                    "endOffset": 1482
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
@@ -348,11 +369,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 1250,
+                    "startOffset": 1487,
                     "endColumn": 60,
-                    "endOffset": 1306
+                    "endOffset": 1543
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",

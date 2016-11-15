@@ -57,7 +57,7 @@ public final class R {
     }
     public static final class id {
         public static final int aboutUs_layout=0x7f080000;
-        public static final int action_websearch=0x7f080024;
+        public static final int action_websearch=0x7f080025;
         public static final int activity_open_web_view=0x7f080009;
         public static final int activity_resource=0x7f08000d;
         public static final int avatar=0x7f080004;
@@ -66,9 +66,9 @@ public final class R {
         public static final int content_frame=0x7f080008;
         public static final int drawer_layout=0x7f080006;
         public static final int forward_button=0x7f08000c;
-        public static final int home_layout=0x7f080022;
-        public static final int icon=0x7f08001f;
-        public static final int image=0x7f080021;
+        public static final int home_layout=0x7f080023;
+        public static final int icon=0x7f080020;
+        public static final int image=0x7f080022;
         public static final int imageButton1=0x7f080010;
         public static final int imageButton2=0x7f080011;
         public static final int imageButton3=0x7f08000f;
@@ -79,9 +79,10 @@ public final class R {
         public static final int layout=0x7f080002;
         public static final int left_drawer=0x7f080007;
         public static final int profileBox=0x7f080003;
-        public static final int text1=0x7f080020;
+        public static final int text1=0x7f080021;
         public static final int textView=0x7f080018;
         public static final int textView10=0x7f080001;
+        public static final int textView12=0x7f08001f;
         public static final int textView2=0x7f080017;
         public static final int textView3=0x7f080016;
         public static final int textView4=0x7f08001b;
@@ -91,7 +92,7 @@ public final class R {
         public static final int textView8=0x7f08001d;
         public static final int textView9=0x7f08001c;
         public static final int userName=0x7f080005;
-        public static final int video_layout=0x7f080023;
+        public static final int video_layout=0x7f080024;
         public static final int webview=0x7f08000a;
     }
     public static final class layout {
@@ -113,9 +114,10 @@ public final class R {
         public static final int action_websearch=0x7f060000;
         public static final int app_name=0x7f060001;
         public static final int app_not_available=0x7f060002;
-        public static final int drawer_close=0x7f060003;
-        public static final int drawer_open=0x7f060004;
-        public static final int title_activity_open_web_view=0x7f060005;
-        public static final int title_activity_resource=0x7f060006;
+        public static final int contact_us=0x7f060003;
+        public static final int drawer_close=0x7f060004;
+        public static final int drawer_open=0x7f060005;
+        public static final int title_activity_open_web_view=0x7f060006;
+        public static final int title_activity_resource=0x7f060007;
     }
 }
