@@ -33,6 +33,9 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.InputStream;
+import java.sql.Time;
+import java.util.Timer;
+import java.util.TimerTask;
 
 /**
  * Fragment that appears in the "content_frame", shows a planet
@@ -41,7 +44,7 @@ import java.io.InputStream;
 public class PlanetFragment extends Fragment {
     private View web;
     public static final String FRAGMENT_NUMBER = "fragment_number";
-
+    public int time;
 
 
 
@@ -136,10 +139,25 @@ public class PlanetFragment extends Fragment {
         else{
             rootView = inflater.inflate(R.layout.home_page,container,false);}
 
+
+
+        class UpdateAnimationFrame extends TimerTask{
+            public void run(){
+                time++;
+            }
+
+        }
+
+        Timer timer = new Timer();
+        timer.schedule(new UpdateAnimationFrame(), 1000);
+
+
         final Integer[] images = {R.drawable.han, R.drawable.luke, R.drawable.mace, R.drawable.vadar, R.drawable.yoda};
         RadioButton radio1, radio2, radio3, radio4, radio5;
         final ImageSwitcher imageSwitcher;
         final int counter = 0;
+        int updater = time % 5;
+
 
         radio1 = (RadioButton)rootView.findViewById(R.id.radioButton);
         radio2 = (RadioButton)rootView.findViewById(R.id.radioButton2);
@@ -169,11 +187,34 @@ public class PlanetFragment extends Fragment {
         Animation in = AnimationUtils.loadAnimation(getContext(), R.anim.in);
         Animation out = AnimationUtils.loadAnimation(getContext(), R.anim.out);
 
-
-        imageSwitcher.setOutAnimation(out);
         imageSwitcher.setInAnimation(in);
+        imageSwitcher.setOutAnimation(out);
 
         RadioGroup radioGroup = (RadioGroup)rootView.findViewById(R.id.radioGroup);
+
+
+        switch (updater){
+            case 0:
+                imageSwitcher.setImageResource(images[0]);
+                break;
+            case 1:
+                imageSwitcher.setImageResource(images[1]);
+                break;
+            case 2:
+                imageSwitcher.setImageResource(images[2]);
+                break;
+            case 3:
+                imageSwitcher.setImageResource(images[3]);
+                break;
+            case 4:
+                imageSwitcher.setImageResource(images[4]);
+                break;
+            default:
+                imageSwitcher.setImageResource(images[0]);
+                break;
+        }
+
+
 
         radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
