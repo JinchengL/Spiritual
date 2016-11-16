@@ -23,6 +23,11 @@
     <string name="action_websearch">Web search</string>
     <string name="app_name">Spiritual Care App</string>
     <string name="app_not_available">Sorry, there\'s no web browser available</string>
+<<<<<<< HEAD
+    <string name="contact_us">If you would like a visit from a chaplain, prayer, a Bible or other sacred text\n from a specific faith tradition, communion or other religious,\n spiritual or pastoral support, please contact us.
+</string>
+=======
+>>>>>>> 08e3caae24cd91df340fa1191633e7a5b4bf9598
     <string name="drawer_close">Close navigation drawer</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="title_activity_open_web_view">OpenWebView</string>

@@ -4,8 +4,17 @@
         "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\statue_background.png"
     },
     {
+<<<<<<< HEAD
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/statue_background.png",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/statue_background.png"
+    },
+    {
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/earth.jpg",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/earth.jpg"
+=======
         "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wexner_med_152x75.jpg",
         "source": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\src\\main\\res\\drawable\\wexner_med_152x75.jpg"
+>>>>>>> 08e3caae24cd91df340fa1191633e7a5b4bf9598
     },
     {
         "merged": "C:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hospital_east_125x62.jpg",

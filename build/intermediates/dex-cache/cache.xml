@@ -7,8 +7,13 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
+<<<<<<< HEAD
+        sha1="7b0ef9d91685d2bcdb2a8d85f1a9b7e2bf356932">
+        <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f038b9d106cc1a1621bf8851c9b68806a22f409/classes.dex" />
+=======
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
         <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_cb2d0a07d0cb53e865691ef8b6bbd44bf0381e09.jar" />
+>>>>>>> 08e3caae24cd91df340fa1191633e7a5b4bf9598
     </item>
     <item
         is-multidex="false"
@@ -16,8 +21,13 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
+<<<<<<< HEAD
+        sha1="bf88096ab8417f1d509235a7b73801dc6ac88cda">
+        <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad514fc94b0f7e319d79295a53f32d23a84129a4/classes.dex" />
+=======
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
         <dex dex="C:\Users\Skylor\Capstone\Spiritual\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_0590ada01dde69b61b1314c0f326039c677fd356.jar" />
+>>>>>>> 08e3caae24cd91df340fa1191633e7a5b4bf9598
     </item>
     <item
         is-multidex="false"

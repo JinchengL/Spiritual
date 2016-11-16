@@ -12,24 +12,24 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="150dp"
         android:layout_height="99dp">
         <ImageView
             android:src="@drawable/wexner_med_152x75"
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:layout_height="75dp"
             android:layout_weight="1"
             android:id="@+id/imageView7" />
 
         <ImageView
             android:src="@drawable/hospital_east_152x75"
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:layout_height="75dp"
             android:id="@+id/imageView8"
             android:layout_weight="1" />
         <ImageView
             android:src="@drawable/wexner_logo_200x200"
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:layout_height="75dp"
             android:id="@+id/imageView9"
             android:layout_weight="1" />
@@ -45,7 +45,7 @@
         <TextView
             android:text="Main Campus"
             android:textSize="@dimen/fontsize_title"
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:gravity="center"
             android:layout_height="wrap_content"
             android:id="@+id/textView3"
@@ -54,7 +54,7 @@
 
         <TextView
             android:text="Hospital East"
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:textSize="@dimen/fontsize_title"
             android:gravity="center"
             android:layout_height="wrap_content"
@@ -64,7 +64,7 @@
 
         <TextView
             android:text="Other time"
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:textSize="@dimen/fontsize_title"
             android:gravity="center"
             android:layout_height="wrap_content"
@@ -81,7 +81,7 @@
         android:layout_height="wrap_content">
 
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:textSize="@dimen/font_size_text"
@@ -93,7 +93,7 @@
         <TextView
             android:text=" 614-257-3255 or 7-3255"
             android:layout_gravity="center_horizontal"
-            android:layout_width="197dp"
+            android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:textSize="@dimen/font_size_text"
             android:gravity="center"
@@ -103,7 +103,7 @@
         <TextView
             android:text="614-293-8000 or 3-8000"
             android:layout_gravity="center_horizontal"
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:textSize="@dimen/font_size_text"
             android:gravity="center"
@@ -115,12 +115,12 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="140dp">
 
         <TextView
             android:text="from 8 a.m. to 4 p.m. "
             android:layout_gravity="center_horizontal"
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:id="@+id/textView9"
             android:gravity="center"
@@ -131,16 +131,15 @@
         <TextView
             android:text="from 8 a.m. to 4 p.m. "
             android:layout_gravity="center_horizontal"
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:id="@+id/textView8"
             android:gravity="center"
             android:layout_weight="1"
             android:textSize="@dimen/font_size_text"
             />
-
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="fill_parent"
             android:layout_gravity="center_horizontal"
             android:layout_height="wrap_content"
             android:id="@+id/textView7"
@@ -148,6 +147,22 @@
             android:text="during any other time "
             android:textSize="@dimen/font_size_text"
             android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="158dp"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:maxLines="4"
+            android:id="@+id/textView12"
+            android:textSize="20sp"
+            android:text="@string/contact_us"
+            />
     </LinearLayout>
 
 </LinearLayout>
