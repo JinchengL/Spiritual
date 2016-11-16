@@ -177,6 +177,9 @@ public class PlanetFragment extends Fragment {
             }
         });
 
+
+
+
         imageSwitcher.setImageResource(images[0]);
         String planet = getResources().getStringArray(R.array.menu_array)[i];
         getActivity().setTitle(planet);
@@ -192,6 +195,9 @@ public class PlanetFragment extends Fragment {
 
         RadioGroup radioGroup = (RadioGroup)rootView.findViewById(R.id.radioGroup);
 
+
+        ImageButton button4 = (ImageButton)rootView.findViewById(R.id.calendarButton);
+        button4.setOnClickListener(new ClickWebViewListener(getActivity(),"https://calendar.google.com/calendar/render#main_7"));
 
         switch (updater){
             case 0:
