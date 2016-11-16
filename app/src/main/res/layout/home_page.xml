@@ -18,16 +18,16 @@
 
 
         <ImageButton
-            android:src="@drawable/Calendar200"
+            android:src="@drawable/calendar200"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
             android:layout_marginStart="500dp"
-            android:id="@+id/imageButton6"
+            android:id="@+id/calendarButton"
             android:contentDescription="@string/title_activity_resource" />
 
         <ImageView
-            android:src="@drawable/Scroll200300"
+            android:src="@drawable/scroll200300"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/imageView"
