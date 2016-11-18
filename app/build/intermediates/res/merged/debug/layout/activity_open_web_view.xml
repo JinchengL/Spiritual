@@ -29,10 +29,10 @@
         android:shadowColor="#4f70a9"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
-        android:background="@drawable/backbutton" />
+        android:background="@drawable/backbutton"
+       />
 
     <Button
-        android:text="Forward"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:clickable="true"
@@ -40,5 +40,6 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:shadowColor="#466894"
-        android:id="@+id/forward_button" />
+        android:id="@+id/forward_button"
+        android:background="@drawable/forwardbutton"/>
 </RelativeLayout>

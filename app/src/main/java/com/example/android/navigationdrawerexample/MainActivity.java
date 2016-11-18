@@ -98,10 +98,11 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         //list all the items image and title
         mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_home,"Home" ));
-        mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_home,"About us" ));
-        mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_video,"Video/ Music" ));
+        mNavItems.add(new NavItem(R.drawable.aboutus,"About us" ));
+        mNavItems.add(new NavItem(R.drawable.prayer,"Prayers"));
+        mNavItems.add(new NavItem(R.drawable.inspiration,"Inspiration" ));
         mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_text,"Sacred Texts" ));
-        mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_text,"Interfaith Calendar" ));
+        mNavItems.add(new NavItem(R.drawable.calendar,"Interfaith Calendar" ));
         mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_contact,"Contact Us" ));
         mTitle = mDrawerTitle = getTitle();
         mPlanetTitles = getResources().getStringArray(R.array.menu_array);
