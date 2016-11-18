@@ -63,9 +63,20 @@ public class PlanetFragment extends Fragment {
         //calling different layout to replace content part
 
         if(i == 1){ //about us
-            rootView = inflater.inflate(R.layout.about_us,container,false);
-            TextView about = (TextView) rootView.findViewById(R.id.textView10);
+//            rootView = inflater.inflate(R.layout.about_us,container,false);
+            rootView = inflater.inflate(R.layout.activity_open_web_view,container,false);
 
+            myWebView = (WebView) rootView.findViewById(R.id.webview);
+            myWebView.loadUrl("file:///android_asset/about.html");
+
+            // Enable Javascript
+            WebSettings webSettings = myWebView.getSettings();
+            webSettings.setJavaScriptEnabled(true);
+
+            // Force links and redirects to open in the WebView instead of in a browser
+            myWebView.setWebViewClient(new WebViewClient());
+
+            //TextView about = (TextView) rootView.findViewById(R.id.textView10);
 
             /*AssetManager assetman=myContext.getAssets();
             try {
