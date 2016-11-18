@@ -1,14 +1,7 @@
-<<<<<<< HEAD
-#Mon Nov 14 23:36:31 EST 2016
+#Thu Nov 17 22:14:09 EST 2016
 base.0=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f038b9d106cc1a1621bf8851c9b68806a22f409
 renamed.1=classes.dex
 renamed.0=classes2.dex
 file.1=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad514fc94b0f7e319d79295a53f32d23a84129a4/classes.dex
 base.1=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad514fc94b0f7e319d79295a53f32d23a84129a4
 file.0=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f038b9d106cc1a1621bf8851c9b68806a22f409/classes.dex
-=======
-#Wed Nov 09 16:48:32 EST 2016
-base.0=C\:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Users\\Skylor\\Capstone\\Spiritual\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
->>>>>>> 08e3caae24cd91df340fa1191633e7a5b4bf9598
