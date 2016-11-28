@@ -13,26 +13,52 @@
         android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="1">
+        android:layout_weight="1"
+        android:weightSum="1">
 
-        <ImageButton
-            android:src="@drawable/christian_symbol_122x173"
-            android:layout_gravity="center"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/imageButton4"
-            android:layout_marginLeft="@dimen/resource_marginLeft"
-            android:layout_marginRight="@dimen/resource_marginRight"
-            android:layout_weight="1" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"></LinearLayout>
 
-        <ImageButton
-            android:src="@drawable/muslim"
-            android:layout_gravity="center"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/imageButton3"
-            android:layout_marginRight="@dimen/resource_marginRight"
-            android:layout_weight="1" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25">
+
+            <ImageButton
+                android:src="@drawable/christian_symbol_122x173"
+                android:layout_gravity="center_vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:padding="5dp"
+                android:id="@+id/imageButton4"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25">
+
+            <ImageButton
+                android:src="@drawable/muslim"
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:padding="5dp"
+                android:id="@+id/imageButton3"
+                />
+        </LinearLayout>
+
     </LinearLayout>
 
     <LinearLayout
@@ -41,31 +67,47 @@
         android:layout_height="0dp"
         android:layout_weight="1">
 
-        <ImageButton
-            android:src="@drawable/buddhist_231x173"
-            android:layout_gravity="center"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/imageButton1"
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"></LinearLayout>
 
-            android:layout_marginLeft="@dimen/resource_marginLeft"
-            android:layout_marginRight="@dimen/resource_marginRight"
-            android:layout_alignParentTop="true"
-            android:layout_toLeftOf="@+id/imageButton2"
-            android:layout_toStartOf="@+id/imageButton2"
-            android:layout_weight="1" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25">
 
-        <ImageButton
-            android:src="@drawable/jewish_symbol_187x173"
-            android:layout_gravity="center"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/imageButton2"
+            <ImageButton
+                android:src="@drawable/buddhist_231x173"
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:id="@+id/imageButton1"
+                android:layout_height="200dp"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:padding="5dp"
+                />
+        </LinearLayout>
 
-            android:layout_alignParentRight="true"
-            android:layout_alignParentEnd="true"
-            android:layout_marginRight="@dimen/resource_marginRight"
-            android:layout_weight="1" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.25">
+
+            <ImageButton
+                android:src="@drawable/jewish_symbol_187x173"
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitCenter"
+                android:adjustViewBounds="true"
+                android:padding="5dp"
+                android:id="@+id/imageButton2"
+                />
+        </LinearLayout>
 
     </LinearLayout>
 

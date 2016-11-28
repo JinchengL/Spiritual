@@ -19,7 +19,8 @@
     <string-array name="menu_array">
         <item>Home</item>
         <item>About Us</item>
-        <item>Video/ Music</item>
+        <item>Prayers</item>
+        <item>Inspiration</item>
         <item>Sacred Text</item>
         <item>Interfaith Calendar</item>
         <item>Contact Us</item>
@@ -31,4 +32,9 @@
     <string name="app_not_available">Sorry, there\'s no web browser available</string>
     <string name="title_activity_open_web_view">OpenWebView</string>
     <string name="title_activity_resource">resource</string>
+    <string name="contact_us">If you would like a visit from a chaplain, prayer, a Bible or other sacred text\n from a specific faith tradition, communion or other religious,\n spiritual or pastoral support, please contact us.
+</string>
+    <string name="prayer_christian">O God, the Strength of the weak, the Comfort of the sorrowful, the Friend of the lonely; let not sorrow overwhelm your children, nor anguish of heart turn them from you. Grant in the patience of hope they may continue in your service and in all godly living, until at length they also attain unto fullness of life before your face. (Methodist Book of Offices, Words to Comfort, Words to Heal, p. 119).\n Heavenly Father, you are intimately aware of the struggle I am experiencing – the pain and the despair. You know the desire of my heart to be healed of this illness. I ask now for your healing touch. I know you are able. You can heal me.
+I also understand that you will chose what is best for me. I pray that through this trial, I will draw close to you – that you will be my comfort and strength. I pray that ultimately, whatever happens, you will be glorified through me. (www.allaboutprayer.org/healing-prayers.htm).
+</string>
 </resources>
