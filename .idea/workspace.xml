@@ -13,24 +13,47 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec3c246d-56f5-4fa3-85dc-ff2d6cd5f305" name="Default" comment="Merge remote-tracking branch 'origin/master' into Greg's&#10;&#10;Conflicts:&#10;&#9;.gradle/2.14.1/taskArtifacts/cache.properties.lock&#10;&#9;.gradle/2.14.1/taskArtifacts/fileHashes.bin&#10;&#9;.gradle/2.14.1/taskArtifacts/fileSnapshots.bin&#10;&#9;.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin&#10;&#9;.gradle/2.14.1/taskArtifacts/taskArtifacts.bin&#10;&#9;.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin&#10;&#9;.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock&#10;&#9;.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin&#10;&#9;.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock&#10;&#9;.idea/gradle.xml&#10;&#9;.idea/libraries/support_annotations_23_4_0.xml&#10;&#9;.idea/libraries/support_v4_23_4_0.xml&#10;&#9;.idea/workspace.xml&#10;&#9;app/build/generated/source/r/debug/com/example/android/navigationdrawerexample/R.java&#10;&#9;app/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json&#10;&#9;app/build/intermediates/blame/res/debug/multi/values.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-hdpi.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-mdpi.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable.json&#10;&#9;app/build/intermediates/blame/res/debug/single/layout.json&#10;&#9;app/build/intermediates/blame/res/debug/single/menu.json&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity$1.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity$DrawerItemClickListener.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity$DrawerListAdapter.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity$NavItem.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/OpenWebView.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/PlanetFragment.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$drawable.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$id.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$layout.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$menu.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$string.class&#10;&#9;app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar&#10;&#9;app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity$1.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity$DrawerItemClickListener.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity$DrawerListAdapter.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity$NavItem.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/OpenWebView.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/PlanetFragment.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$drawable.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$id.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$layout.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$menu.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$string.class&#10;&#9;app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties&#10;&#9;app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml&#10;&#9;app/build/intermediates/incremental/mergeDebugAssets/merger.xml&#10;&#9;app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml&#10;&#9;app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties&#10;&#9;app/build/intermediates/incremental/mergeDebugResources/merger.xml&#10;&#9;app/build/intermediates/incremental/mergeDebugShaders/merger.xml&#10;&#9;app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt&#10;&#9;app/build/intermediates/incremental/packageDebug/file-input-save-data.txt&#10;&#9;app/build/intermediates/incremental/packageDebug/zip-cache/JUVodFo4m+p8bkhSzEcXI2+Nzwg=&#10;&#9;app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt&#10;&#9;app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt&#10;&#9;app/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/JUVodFo4m+p8bkhSzEcXI2+Nzwg=&#10;&#9;app/build/intermediates/instant-run-resources/resources-debug.ir.ap_&#10;&#9;app/build/intermediates/instant-run-support/debug/manifest.crc&#10;&#9;app/build/intermediates/res/merged/debug/layout/activity_open_web_view.xml&#10;&#9;app/build/intermediates/res/merged/debug/layout/activity_resource.xml&#10;&#9;app/build/intermediates/res/merged/debug/values/values.xml&#10;&#9;app/build/intermediates/res/resources-debug.ap_&#10;&#9;app/build/intermediates/restart-dex/debug/build-info.xml&#10;&#9;app/build/intermediates/symbols/debug/R.txt&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/BuildConfig.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/ClickWebViewListener.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity$1.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity$DrawerItemClickListener.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity$DrawerListAdapter.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity$NavItem.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/OpenWebView.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/PlanetFragment.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$array.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$attr.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$dimen.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$drawable.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$id.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$layout.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$menu.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$string.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R.class&#10;&#9;app/build/outputs/apk/app-debug.apk&#10;&#9;app/build/outputs/logs/manifest-merger-debug-report.txt&#10;&#9;app/src/main/java/com/example/android/navigationdrawerexample/PlanetFragment.java&#10;&#9;build/intermediates/dex-cache/cache.xml&#10;&#9;local.properties&#10;">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/NavigationDrawer1.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/drawable-hdpi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/1740946778377804/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/1741161416014399/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/1741350609293325/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/1741652438457803/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/1741915104366590/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/1742038405381029/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/1742121224424151/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/1742341252423744/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/builds/debug/1742394217630032/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_6a0241ab05b6a3822cc1f5ed9d80aac9d671da6c/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad514fc94b0f7e319d79295a53f32d23a84129a4/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f038b9d106cc1a1621bf8851c9b68806a22f409/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_9ad8c7483c248ae4b79eb4558536653fc417a3a9/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_1956fb2d59790bc866bfdd1ffd19658baf5ce521/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/buildId.txt" afterPath="" />
+    <list default="true" id="ec3c246d-56f5-4fa3-85dc-ff2d6cd5f305" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/prayer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/instant-run.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/android/tools/fd/dummy/slice_0.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/android/tools/fd/dummy/slice_1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/ClickWebViewListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity$DrawerItemClickListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity$DrawerListAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity$NavItem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/OpenWebView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/PlanetFragment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$array.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/android/tools/fd/dummy/slice_2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/android/tools/fd/dummy/slice_3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/android/tools/fd/dummy/slice_4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/android/tools/fd/dummy/slice_5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/android/tools/fd/dummy/slice_6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/android/tools/fd/dummy/slice_7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/android/tools/fd/dummy/slice_8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/android/tools/fd/dummy/slice_9.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
@@ -38,31 +61,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/instant-run.zip" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/instant-run.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity$DrawerItemClickListener.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity$DrawerItemClickListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity$DrawerListAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity$DrawerListAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity$NavItem.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity$NavItem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/OpenWebView.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/OpenWebView.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/PlanetFragment.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/PlanetFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$array.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$array.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$menu.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/android/navigationdrawerexample/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi/inspiration.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi/inspiration.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/assets/debug/prayer.html" afterPath="$PROJECT_DIR$/app/build/intermediates/assets/debug/prayer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="NavigationDrawer.iws" />
@@ -88,7 +90,18 @@
     <system id="GRADLE">
       <state>
         <projects_view>
-          <tree_state />
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Spiritual" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
         </projects_view>
       </state>
     </system>
@@ -98,29 +111,81 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_open_web_view.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_open_web_view.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_resource.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_resource.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_page.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/home_page.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prayers.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/prayers.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home_page.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/home_page.xml">
           <provider editor-type-id="android-designer2">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_us.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/about_us.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+            <state relative-caret-position="102">
+              <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
@@ -134,14 +199,10 @@
       <file leaf-file-name="PlanetFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigationdrawerexample/PlanetFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3298">
-              <caret line="199" column="125" selection-start-line="199" selection-start-column="125" selection-end-line="199" selection-end-column="125" />
+            <state relative-caret-position="2244">
+              <caret line="169" column="0" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#5746#6186#0" expanded="true" />
-                <element signature="e#6185#6186#0" expanded="true" />
-                <element signature="e#7753#8822#0" expanded="true" />
-                <element signature="e#8821#8822#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1457,7 +1518,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="C:\Users\Skylor\Capstone\Spiritual" value="4435700508043" />
-        <entry key="$PROJECT_DIR$" value="4436416183412" />
+        <entry key="$PROJECT_DIR$" value="4437378384075" />
         <entry key="E:\Documents\Spiritual" value="4437378384075" />
       </map>
     </option>
@@ -1741,7 +1802,6 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/about_us.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/interfaith_calendar.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigationdrawerexample/OpenWebView.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout-xlarge/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigationdrawerexample/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigationdrawerexample/HomePage.java" />
@@ -1751,6 +1811,7 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/home_page.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/android/navigationdrawerexample/PlanetFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
       </list>
     </option>
   </component>
@@ -1785,12 +1846,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1897,6 +1952,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spiritual" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Spiritual" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="drawable" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1947,6 +2032,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2405,7 +2496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1480374815323</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="here">
+      <created>1480374903757</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1480374903757</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2419,39 +2517,39 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2786753" sideWeight="0.17551963" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.52132195" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32764506" sideWeight="0.47738287" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.060581584" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.47867805" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22939867" sideWeight="0.18230277" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2786753" sideWeight="0.17551963" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20935412" sideWeight="0.4664179" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32764506" sideWeight="0.49353796" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.52132195" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32764506" sideWeight="0.47738287" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20935412" sideWeight="0.4642857" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739422" sideWeight="0.4914712" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11915368" sideWeight="0.46695095" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20935412" sideWeight="0.5335821" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20042644" sideWeight="0.7605634" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20935412" sideWeight="0.53571427" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20255864" sideWeight="0.7521127" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20042644" sideWeight="0.23943663" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20255864" sideWeight="0.24788733" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.060581584" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739422" sideWeight="0.48507464" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -2479,7 +2577,8 @@
     <MESSAGE value="Added Images" />
     <MESSAGE value="Fixed some bugs" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master' into Greg's&#10;&#10;Conflicts:&#10;&#9;.gradle/2.14.1/taskArtifacts/cache.properties.lock&#10;&#9;.gradle/2.14.1/taskArtifacts/fileHashes.bin&#10;&#9;.gradle/2.14.1/taskArtifacts/fileSnapshots.bin&#10;&#9;.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin&#10;&#9;.gradle/2.14.1/taskArtifacts/taskArtifacts.bin&#10;&#9;.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin&#10;&#9;.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock&#10;&#9;.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin&#10;&#9;.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock&#10;&#9;.idea/gradle.xml&#10;&#9;.idea/libraries/support_annotations_23_4_0.xml&#10;&#9;.idea/libraries/support_v4_23_4_0.xml&#10;&#9;.idea/workspace.xml&#10;&#9;app/build/generated/source/r/debug/com/example/android/navigationdrawerexample/R.java&#10;&#9;app/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json&#10;&#9;app/build/intermediates/blame/res/debug/multi/values.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-hdpi.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-mdpi.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable.json&#10;&#9;app/build/intermediates/blame/res/debug/single/layout.json&#10;&#9;app/build/intermediates/blame/res/debug/single/menu.json&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity$1.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity$DrawerItemClickListener.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity$DrawerListAdapter.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity$NavItem.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/OpenWebView.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/PlanetFragment.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$drawable.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$id.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$layout.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$menu.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$string.class&#10;&#9;app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar&#10;&#9;app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity$1.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity$DrawerItemClickListener.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity$DrawerListAdapter.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity$NavItem.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/OpenWebView.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/PlanetFragment.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$drawable.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$id.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$layout.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$menu.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$string.class&#10;&#9;app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties&#10;&#9;app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml&#10;&#9;app/build/intermediates/incremental/mergeDebugAssets/merger.xml&#10;&#9;app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml&#10;&#9;app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties&#10;&#9;app/build/intermediates/incremental/mergeDebugResources/merger.xml&#10;&#9;app/build/intermediates/incremental/mergeDebugShaders/merger.xml&#10;&#9;app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt&#10;&#9;app/build/intermediates/incremental/packageDebug/file-input-save-data.txt&#10;&#9;app/build/intermediates/incremental/packageDebug/zip-cache/JUVodFo4m+p8bkhSzEcXI2+Nzwg=&#10;&#9;app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt&#10;&#9;app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt&#10;&#9;app/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/JUVodFo4m+p8bkhSzEcXI2+Nzwg=&#10;&#9;app/build/intermediates/instant-run-resources/resources-debug.ir.ap_&#10;&#9;app/build/intermediates/instant-run-support/debug/manifest.crc&#10;&#9;app/build/intermediates/res/merged/debug/layout/activity_open_web_view.xml&#10;&#9;app/build/intermediates/res/merged/debug/layout/activity_resource.xml&#10;&#9;app/build/intermediates/res/merged/debug/values/values.xml&#10;&#9;app/build/intermediates/res/resources-debug.ap_&#10;&#9;app/build/intermediates/restart-dex/debug/build-info.xml&#10;&#9;app/build/intermediates/symbols/debug/R.txt&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/BuildConfig.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/ClickWebViewListener.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity$1.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity$DrawerItemClickListener.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity$DrawerListAdapter.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity$NavItem.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/OpenWebView.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/PlanetFragment.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$array.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$attr.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$dimen.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$drawable.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$id.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$layout.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$menu.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$string.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R.class&#10;&#9;app/build/outputs/apk/app-debug.apk&#10;&#9;app/build/outputs/logs/manifest-merger-debug-report.txt&#10;&#9;app/src/main/java/com/example/android/navigationdrawerexample/PlanetFragment.java&#10;&#9;build/intermediates/dex-cache/cache.xml&#10;&#9;local.properties&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master' into Greg's&#10;&#10;Conflicts:&#10;&#9;.gradle/2.14.1/taskArtifacts/cache.properties.lock&#10;&#9;.gradle/2.14.1/taskArtifacts/fileHashes.bin&#10;&#9;.gradle/2.14.1/taskArtifacts/fileSnapshots.bin&#10;&#9;.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin&#10;&#9;.gradle/2.14.1/taskArtifacts/taskArtifacts.bin&#10;&#9;.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin&#10;&#9;.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock&#10;&#9;.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin&#10;&#9;.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock&#10;&#9;.idea/gradle.xml&#10;&#9;.idea/libraries/support_annotations_23_4_0.xml&#10;&#9;.idea/libraries/support_v4_23_4_0.xml&#10;&#9;.idea/workspace.xml&#10;&#9;app/build/generated/source/r/debug/com/example/android/navigationdrawerexample/R.java&#10;&#9;app/build/intermediates/blame/res/debug/multi/values-w820dp-v13.json&#10;&#9;app/build/intermediates/blame/res/debug/multi/values.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-hdpi.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-mdpi.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-xhdpi.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json&#10;&#9;app/build/intermediates/blame/res/debug/single/drawable.json&#10;&#9;app/build/intermediates/blame/res/debug/single/layout.json&#10;&#9;app/build/intermediates/blame/res/debug/single/menu.json&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity$1.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity$DrawerItemClickListener.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity$DrawerListAdapter.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity$NavItem.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/MainActivity.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/OpenWebView.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/PlanetFragment.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$drawable.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$id.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$layout.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$menu.class&#10;&#9;app/build/intermediates/classes/debug/com/example/android/navigationdrawerexample/R$string.class&#10;&#9;app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar&#10;&#9;app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity$1.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity$DrawerItemClickListener.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity$DrawerListAdapter.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity$NavItem.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/MainActivity.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/OpenWebView.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/PlanetFragment.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$drawable.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$id.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$layout.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$menu.class&#10;&#9;app/build/intermediates/incremental-verifier/debug/com/example/android/navigationdrawerexample/R$string.class&#10;&#9;app/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties&#10;&#9;app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml&#10;&#9;app/build/intermediates/incremental/mergeDebugAssets/merger.xml&#10;&#9;app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml&#10;&#9;app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties&#10;&#9;app/build/intermediates/incremental/mergeDebugResources/merger.xml&#10;&#9;app/build/intermediates/incremental/mergeDebugShaders/merger.xml&#10;&#9;app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt&#10;&#9;app/build/intermediates/incremental/packageDebug/file-input-save-data.txt&#10;&#9;app/build/intermediates/incremental/packageDebug/zip-cache/JUVodFo4m+p8bkhSzEcXI2+Nzwg=&#10;&#9;app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt&#10;&#9;app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt&#10;&#9;app/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/JUVodFo4m+p8bkhSzEcXI2+Nzwg=&#10;&#9;app/build/intermediates/instant-run-resources/resources-debug.ir.ap_&#10;&#9;app/build/intermediates/instant-run-support/debug/manifest.crc&#10;&#9;app/build/intermediates/res/merged/debug/layout/activity_open_web_view.xml&#10;&#9;app/build/intermediates/res/merged/debug/layout/activity_resource.xml&#10;&#9;app/build/intermediates/res/merged/debug/values/values.xml&#10;&#9;app/build/intermediates/res/resources-debug.ap_&#10;&#9;app/build/intermediates/restart-dex/debug/build-info.xml&#10;&#9;app/build/intermediates/symbols/debug/R.txt&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/BuildConfig.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/ClickWebViewListener.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity$1.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity$DrawerItemClickListener.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity$DrawerListAdapter.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity$NavItem.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/MainActivity.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/OpenWebView.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/PlanetFragment.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$array.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$attr.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$dimen.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$drawable.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$id.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$layout.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$menu.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R$string.class&#10;&#9;app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/android/navigationdrawerexample/R.class&#10;&#9;app/build/outputs/apk/app-debug.apk&#10;&#9;app/build/outputs/logs/manifest-merger-debug-report.txt&#10;&#9;app/src/main/java/com/example/android/navigationdrawerexample/PlanetFragment.java&#10;&#9;build/intermediates/dex-cache/cache.xml&#10;&#9;local.properties&#10;" />
+    <MESSAGE value="here" />
+    <option name="LAST_COMMIT_MESSAGE" value="here" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2488,7 +2587,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/o.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/mars.jpg" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_drawer_icon_home.png">
       <provider selected="true" editor-type-id="images">
@@ -2528,14 +2626,14 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigationdrawerexample/OpenViewView.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/resource.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_resource.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/android/navigationdrawerexample/R.java" />
@@ -2564,35 +2662,24 @@
     </entry>
     <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk/platforms/android-23/android.jar!/android/app/Fragment.class" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_planet.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="277">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/drawer_list_item.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/drawer_list_item.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_open_web_view.xml">
       <provider editor-type-id="android-designer2">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/statue_of_hope.jpg">
@@ -2601,63 +2688,48 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/video.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/about_us.xml">
-      <provider selected="true" editor-type-id="android-designer2">
+      <provider editor-type-id="android-designer2">
         <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-xlarge/home_page.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/contact_us.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-xlarge/contact_us.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-xlarge/contact_us.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/interfaith_calendar.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/interfaith_calendar.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-xlarge/activity_main.xml">
       <provider selected="true" editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-xlarge/activity_main.xml">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="1275">
           <caret line="75" column="39" selection-start-line="75" selection-start-column="39" selection-end-line="75" selection-end-column="39" />
@@ -2666,31 +2738,12 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
+      <provider selected="true" editor-type-id="android-designer2">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout-xlarge/home_page.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigationdrawerexample/HomePage.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_resource.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/anim/out.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -2728,7 +2781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2736,7 +2788,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2744,7 +2795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2766,29 +2816,80 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/home_page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/about_us.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_resource.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="51" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_open_web_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/prayers.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/android/navigationdrawerexample/PlanetFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3298">
-          <caret line="199" column="125" selection-start-line="199" selection-start-column="125" selection-end-line="199" selection-end-column="125" />
+        <state relative-caret-position="2244">
+          <caret line="169" column="0" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#5746#6186#0" expanded="true" />
-            <element signature="e#6185#6186#0" expanded="true" />
-            <element signature="e#7753#8822#0" expanded="true" />
-            <element signature="e#8821#8822#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/home_page.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        <state relative-caret-position="323">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="41" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
   </component>
