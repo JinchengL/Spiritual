@@ -7,32 +7,35 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.res.AssetManager;
-import android.os.AsyncTask;
 import android.os.Bundle;
 
 import android.renderscript.ScriptGroup;
 import android.text.Html;
-import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.FrameLayout;
 import android.widget.ImageButton;
+import android.widget.ImageSwitcher;
+import android.widget.ImageView;
+import android.widget.RadioButton;
+import android.widget.RadioGroup;
 import android.widget.TextView;
+import android.widget.ViewSwitcher;
 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.net.URL;
-import java.util.ArrayList;
-import java.net.HttpURLConnection;
-
-import org.json.*;
+import java.sql.Time;
+import java.util.Timer;
+import java.util.TimerTask;
 
 /**
  * Fragment that appears in the "content_frame", shows a planet
@@ -40,9 +43,9 @@ import org.json.*;
 
 public class PlanetFragment extends Fragment {
     private View web;
-    private ArrayList<String> links;
-    String myUrl;
     public static final String FRAGMENT_NUMBER = "fragment_number";
+    public int time;
+
 
 
     public PlanetFragment() {
@@ -53,30 +56,17 @@ public class PlanetFragment extends Fragment {
     public View onCreateView(final LayoutInflater inflater, final ViewGroup container,
                              Bundle savedInstanceState) {
         final View rootView;
-        WebView myWebView;
-
 
         int i = getArguments().getInt(FRAGMENT_NUMBER);
-        //ArrayList<String> religionsAvalaible = getReligions();
-        //Log.d("religions:%s", religionsAvalaible.toString());
+
+
 
         //calling different layout to replace content part
 
-        if(i == 1){ //about us
-//            rootView = inflater.inflate(R.layout.about_us,container,false);
-            rootView = inflater.inflate(R.layout.activity_open_web_view,container,false);
+        if(i == 1){
+            rootView = inflater.inflate(R.layout.about_us,container,false);
+            TextView about = (TextView) rootView.findViewById(R.id.textView10);
 
-            myWebView = (WebView) rootView.findViewById(R.id.webview);
-            myWebView.loadUrl("file:///android_asset/about.html");
-
-            // Enable Javascript
-            WebSettings webSettings = myWebView.getSettings();
-            webSettings.setJavaScriptEnabled(true);
-
-            // Force links and redirects to open in the WebView instead of in a browser
-            myWebView.setWebViewClient(new WebViewClient());
-
-            //TextView about = (TextView) rootView.findViewById(R.id.textView10);
 
             /*AssetManager assetman=myContext.getAssets();
             try {
@@ -102,25 +92,11 @@ public class PlanetFragment extends Fragment {
             }
 */
          }
-        else if(i == 2) { //prayer
-            rootView = inflater.inflate(R.layout.activity_open_web_view,container,false);
-
-            myWebView = (WebView) rootView.findViewById(R.id.webview);
-            myWebView.loadUrl("file:///android_asset/prayer.html");
-
-            // Enable Javascript
-            WebSettings webSettings = myWebView.getSettings();
-            webSettings.setJavaScriptEnabled(true);
-
-            // Force links and redirects to open in the WebView instead of in a browser
-            myWebView.setWebViewClient(new WebViewClient());
-
-        }
-        else if(i == 3){ //inspiration
+        else if(i == 2){
             rootView = inflater.inflate(R.layout.video,container,false);
 
         }
-        else if(i == 4) { //sacred texts
+        else if(i == 3) {
             rootView = inflater.inflate(R.layout.activity_resource,container,false);
 
             //image button 1
@@ -141,7 +117,7 @@ public class PlanetFragment extends Fragment {
             button4.setOnClickListener(new ClickWebViewListener(getActivity(),"https://www.biblegateway.com/"));
 
         }
-        else if(i ==5){ //interfaith calendar
+        else if(i ==4){
             rootView = inflater.inflate(R.layout.interfaith_calendar,container,false);
             //we do not need the layout to bw activity_open_web_view in this case;
     //do we want it to show in the right side? It depends on the content of the calendar
@@ -156,50 +132,131 @@ public class PlanetFragment extends Fragment {
 
 
         }
-        else if(i == 6){ //contact us
+        else if(i == 5){
             rootView = inflater.inflate(R.layout.contact_us,container,false);
 
         }
-        else{ //home page
+        else{
             rootView = inflater.inflate(R.layout.home_page,container,false);}
 
+
+
+        class UpdateAnimationFrame extends TimerTask{
+            public void run(){
+                time++;
+            }
+
+        }
+
+        Timer timer = new Timer();
+        timer.schedule(new UpdateAnimationFrame(), 1000);
+
+
+        final Integer[] images = {R.drawable.han, R.drawable.luke, R.drawable.mace, R.drawable.vadar, R.drawable.yoda};
+        RadioButton radio1, radio2, radio3, radio4, radio5;
+        final ImageSwitcher imageSwitcher;
+        final int counter = 0;
+        int updater = time % 5;
+
+
+        radio1 = (RadioButton)rootView.findViewById(R.id.radioButton);
+        radio2 = (RadioButton)rootView.findViewById(R.id.radioButton2);
+        radio3 = (RadioButton)rootView.findViewById(R.id.radioButton3);
+        radio4 = (RadioButton)rootView.findViewById(R.id.radioButton4);
+        radio5 = (RadioButton)rootView.findViewById(R.id.radioButton5);
+
+
+        imageSwitcher = (ImageSwitcher)rootView.findViewById(R.id.imageSwitcher);
+        imageSwitcher.setFactory(new ViewSwitcher.ViewFactory() {
+            @Override
+            public View makeView() {
+                ImageView imageView = new ImageView(getContext());
+                imageView.setScaleType(ImageView.ScaleType.CENTER_INSIDE);
+                imageView.setLayoutParams(new ImageSwitcher.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
+                return imageView;
+            }
+        });
+
+
+
+
+        imageSwitcher.setImageResource(images[0]);
         String planet = getResources().getStringArray(R.array.menu_array)[i];
         getActivity().setTitle(planet);
+
+        ImageButton calendarButton = (ImageButton)rootView.findViewById(R.id.calendarButton);
+       // calendarButton.setOnClickListener();
+
+        Animation in = AnimationUtils.loadAnimation(getContext(), R.anim.in);
+        Animation out = AnimationUtils.loadAnimation(getContext(), R.anim.out);
+
+        imageSwitcher.setInAnimation(in);
+        imageSwitcher.setOutAnimation(out);
+
+        RadioGroup radioGroup = (RadioGroup)rootView.findViewById(R.id.radioGroup);
+
+
+        ImageButton button4 = (ImageButton)rootView.findViewById(R.id.calendarButton);
+        button4.setOnClickListener(new ClickWebViewListener(getActivity(),"https://calendar.google.com/calendar/render#main_7"));
+
+        switch (updater){
+            case 0:
+                imageSwitcher.setImageResource(images[0]);
+                break;
+            case 1:
+                imageSwitcher.setImageResource(images[1]);
+                break;
+            case 2:
+                imageSwitcher.setImageResource(images[2]);
+                break;
+            case 3:
+                imageSwitcher.setImageResource(images[3]);
+                break;
+            case 4:
+                imageSwitcher.setImageResource(images[4]);
+                break;
+            default:
+                imageSwitcher.setImageResource(images[0]);
+                break;
+        }
+
+
+
+        radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(RadioGroup radioGroup, int checkedID) {
+                int counter = radioGroup.indexOfChild(rootView.findViewById(checkedID));
+
+                switch (counter){
+                    case 0:
+                        imageSwitcher.setImageResource(images[0]);
+                        break;
+                    case 1:
+                        imageSwitcher.setImageResource(images[1]);
+                        break;
+                    case 2:
+                        imageSwitcher.setImageResource(images[2]);
+                        break;
+                    case 3:
+                        imageSwitcher.setImageResource(images[3]);
+                        break;
+                    case 4:
+                        imageSwitcher.setImageResource(images[4]);
+                        break;
+                    default:
+                        imageSwitcher.setImageResource(images[0]);
+                        break;
+                }
+
+            }
+        });
+
+
+
         return rootView;
 
-
-
     }
 
 
-
-    public ArrayList<String> getReligions() {
-        ArrayList<String> religions = new ArrayList<String>();
-        HttpURLConnection conn = null;
-        Log.d("here%s", "hey");
-
-        try {
-            URL getReligionURL = new URL("http://ec2-35-161-157-75.us-west-2.compute.amazonaws.com/GetReligions.php");
-            conn = (HttpURLConnection) getReligionURL.openConnection();
-            conn.setRequestMethod("GET");
-            BufferedReader dataReader = new BufferedReader(new InputStreamReader(conn.getInputStream()));
-            StringBuilder data = new StringBuilder();
-            String line = "";
-            Log.d("here%s", line);
-            while ((line = dataReader.readLine()) != null) {
-                Log.d("line:%s", line);
-                data.append(line);
-            }
-
-            String religionData = data.toString();
-            final JSONArray jsonreligions = new JSONArray(religionData);
-            for (int i = 0; i < jsonreligions.length(); i++) {
-                religions.add(jsonreligions.getString(i));
-            }
-        } catch (Exception e) {
-            Log.d("something", e.toString());
-        }
-        return religions;
-    }
 
 }
