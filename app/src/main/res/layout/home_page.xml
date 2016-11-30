@@ -41,11 +41,26 @@
             android:layout_height="160dp"
             android:id="@+id/textViewQOTD" />
 
+        <ImageView
+            android:src="@drawable/bottomimageswitchercorner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="280dp"
+            android:layout_marginTop="437dp"
+            android:id="@+id/imageView3" />
+
+        <ImageView
+            android:src="@drawable/imageswitchercorner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="220dp"
+            android:id="@+id/imageView2" />
+
         <ImageSwitcher
             android:layout_width="450dp"
             android:layout_height="375dp"
             android:layout_marginStart="30dp"
-            android:layout_marginTop="200dp"
+            android:layout_marginTop="250dp"
             android:id="@+id/imageSwitcher">
 
         </ImageSwitcher>
