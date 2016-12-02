@@ -3,30 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="E:\Documents\Spiritual\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jar="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="E:\Documents\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_ff1b76a9d0febfff7379536d6165999fba97567d\classes.dex" />
+        sha1="637f248a6a3530704a4d04a2bf227b0034065f15">
+        <dex dex="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2b2e4827e003253f7718e198b3ba6bfb52c2720d\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\Documents\Spiritual\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jar="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="E:\Documents\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_56d2e860e4aa221fcd68642699bef641121964ab\classes.dex" />
+        <dex dex="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_e8aed905716bb87131647f1dd0fd722d7426d6ea\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\Documents\Spiritual\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="cc3be8d411548a0d7a81887e02ab54d5b75db889">
-        <dex dex="E:\Documents\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b857b0b367bae2caba3b7d8245114d5230fbb492\classes.dex" />
+        sha1="2d5d9d846475602a5cd2bc01ef47008f5e2ea78c">
+        <dex dex="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1e213661f18449c3cefdd5cee92f20551337f5e8\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -35,16 +35,16 @@
         optimize="true"
         revision="24.0.2"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="E:\Documents\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_0f6553860408c70fcbf9af741b0e3a91ead8e096\classes.dex" />
+        <dex dex="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_0f6553860408c70fcbf9af741b0e3a91ead8e096\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\Documents\Spiritual\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="72dea9988a20ee4187ed10fa453bc7eeb9f7c4aa">
-        <dex dex="E:\Documents\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ef7fa84ec8bc7b4466459a426f52d59949503cb7\classes.dex" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_3b086c021833e340c62a767e65631ee006fc222c\classes.dex" />
     </item>
 
 </items>

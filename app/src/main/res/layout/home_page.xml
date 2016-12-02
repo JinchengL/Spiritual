@@ -11,20 +11,21 @@
 
 
     <RelativeLayout
-        android:background="@drawable/statue_of_hope"
+        android:background="@drawable/statue_background"
         android:layout_width = "wrap_content"
         android:layout_height="match_parent"
         >
 
 
         <ImageButton
-            android:src="@drawable/calendar200"
+            android:src="@drawable/calendar100"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
-            android:layout_marginStart="500dp"
+            android:layout_marginStart="700dp"
             android:id="@+id/calendarButton"
-            android:contentDescription="@string/title_activity_resource" />
+            android:contentDescription="@string/title_activity_resource"
+            android:elevation="0dp" />
 
         <ImageView
             android:src="@drawable/scroll200300"
@@ -88,6 +89,18 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:id="@+id/radioButton5"
+                android:layout_weight="1" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioButton6"
+                android:layout_weight="1" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioButton7"
                 android:layout_weight="1" />
         </RadioGroup>
 

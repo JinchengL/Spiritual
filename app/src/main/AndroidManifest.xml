@@ -47,9 +47,6 @@
         <activity
             android:name=".OpenWebView"
             android:label="@string/title_activity_open_web_view" />
-        <activity
-            android:name=".resource"
-            android:label="@string/title_activity_resource"></activity>
     </application>
 
 </manifest>
