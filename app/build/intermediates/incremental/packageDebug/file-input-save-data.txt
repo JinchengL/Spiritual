@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Dec 04 12:07:46 EST 2016
+#Sun Dec 04 12:40:52 EST 2016
 76.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_
 5.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_
 86.base=/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/resources-debug.ap_

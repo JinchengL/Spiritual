@@ -92,12 +92,12 @@
         "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/prayer2.jpg"
     },
     {
-        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/wexner_med_125x62.jpg",
-        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/wexner_med_125x62.jpg"
-    },
-    {
         "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/border_bottom_right.png",
         "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/border_bottom_right.png"
+    },
+    {
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/wexner_med_125x62.jpg",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/drawable/wexner_med_125x62.jpg"
     },
     {
         "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/drawable/scroll_original.jpg",
