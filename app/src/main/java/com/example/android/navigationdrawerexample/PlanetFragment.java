@@ -76,31 +76,6 @@ public class PlanetFragment extends Fragment {
             webSettings.setJavaScriptEnabled(true);
             myWebview.setWebViewClient(new WebViewClient());
 
-
-
-            /*AssetManager assetman=myContext.getAssets();
-            try {
-                String[] files = assetman.list("Files");
-                for(int k = 0;k < files.length;k++){
-                    about.append("\n Files=>"+i+"Name"+files);
-                }
-            }
-            catch (Exception e){
-                e.printStackTrace();
-            }
-            InputStream input;
-            try{
-                input=assetman.open("abouttext.docx");
-                int size = input.available();
-                byte[] buffer = new byte[size];
-                input.read(buffer);
-                input.close();
-                String text = new String(buffer);
-                about.setText(Html.fromHtml(text));
-            }catch (Exception e){
-                e.printStackTrace();
-            }
-*/
          }
         else if(i == 2){
             rootView = inflater.inflate(R.layout.html_view,container,false);
@@ -155,8 +130,134 @@ public class PlanetFragment extends Fragment {
 
         }
         else{
-            rootView = inflater.inflate(R.layout.home_page,container,false);}
 
+            rootView = inflater.inflate(R.layout.home_page,container,false);
+
+            class UpdateAnimationFrame extends TimerTask{
+                public void run(){
+                    time++;
+                }
+
+            }
+
+            Timer timer = new Timer();
+            timer.schedule(new UpdateAnimationFrame(), 1000);
+
+
+            final Integer[] images = {R.drawable.believe, R.drawable.droplet, R.drawable.hands, R.drawable.kneel_prayer, R.drawable.sunset, R.drawable.spirituality, R.drawable.meditation};
+            RadioButton radio1, radio2, radio3, radio4, radio5, radio6, radio7;
+            final ImageSwitcher imageSwitcher;
+            final int counter = 0;
+            int updater = time % 8;
+
+
+            radio1 = (RadioButton)rootView.findViewById(R.id.radioButton);
+            radio2 = (RadioButton)rootView.findViewById(R.id.radioButton2);
+            radio3 = (RadioButton)rootView.findViewById(R.id.radioButton3);
+            radio4 = (RadioButton)rootView.findViewById(R.id.radioButton4);
+            radio5 = (RadioButton)rootView.findViewById(R.id.radioButton5);
+            radio6 = (RadioButton)rootView.findViewById(R.id.radioButton6);
+            radio7 = (RadioButton)rootView.findViewById(R.id.radioButton7);
+
+
+            imageSwitcher = (ImageSwitcher)rootView.findViewById(R.id.imageSwitcher);
+            imageSwitcher.setFactory(new ViewSwitcher.ViewFactory() {
+                @Override
+                public View makeView() {
+                    ImageView imageView = new ImageView(getContext());
+                    imageView.setScaleType(ImageView.ScaleType.CENTER_INSIDE);
+                    imageView.setLayoutParams(new ImageSwitcher.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
+                    return imageView;
+                }
+            });
+
+
+
+
+            imageSwitcher.setImageResource(images[0]);
+            String planet = getResources().getStringArray(R.array.menu_array)[i];
+            getActivity().setTitle(planet);
+
+            ImageButton calendarButton = (ImageButton)rootView.findViewById(R.id.calendarButton);
+            // calendarButton.setOnClickListener();
+
+            Animation in = AnimationUtils.loadAnimation(getContext(), R.anim.in);
+            Animation out = AnimationUtils.loadAnimation(getContext(), R.anim.out);
+
+            imageSwitcher.setInAnimation(in);
+            imageSwitcher.setOutAnimation(out);
+
+            RadioGroup radioGroup = (RadioGroup)rootView.findViewById(R.id.radioGroup);
+
+
+            ImageButton button4 = (ImageButton)rootView.findViewById(R.id.calendarButton);
+            button4.setOnClickListener(new ClickWebViewListener(getActivity(),"https://calendar.google.com/calendar/render#main_7"));
+
+            switch (updater){
+                case 0:
+                    imageSwitcher.setImageResource(images[0]);
+                    break;
+                case 1:
+                    imageSwitcher.setImageResource(images[1]);
+                    break;
+                case 2:
+                    imageSwitcher.setImageResource(images[2]);
+                    break;
+                case 3:
+                    imageSwitcher.setImageResource(images[3]);
+                    break;
+                case 4:
+                    imageSwitcher.setImageResource(images[4]);
+                    break;
+                case 5:
+                    imageSwitcher.setImageResource(images[5]);
+                    break;
+                case 6:
+                    imageSwitcher.setImageResource(images[6]);
+                    break;
+                default:
+                    imageSwitcher.setImageResource(images[0]);
+                    break;
+            }
+
+
+
+            radioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
+                @Override
+                public void onCheckedChanged(RadioGroup radioGroup, int checkedID) {
+                    int counter = radioGroup.indexOfChild(rootView.findViewById(checkedID));
+
+                    switch (counter){
+                        case 0:
+                            imageSwitcher.setImageResource(images[0]);
+                            break;
+                        case 1:
+                            imageSwitcher.setImageResource(images[1]);
+                            break;
+                        case 2:
+                            imageSwitcher.setImageResource(images[2]);
+                            break;
+                        case 3:
+                            imageSwitcher.setImageResource(images[3]);
+                            break;
+                        case 4:
+                            imageSwitcher.setImageResource(images[4]);
+                            break;
+                        case 5:
+                            imageSwitcher.setImageResource(images[5]);
+                            break;
+                        case 6:
+                            imageSwitcher.setImageResource(images[6]);
+                            break;
+                        default:
+                            imageSwitcher.setImageResource(images[0]);
+                            break;
+                    }
+
+                }
+            });
+
+        }
         return rootView;
 
     }
