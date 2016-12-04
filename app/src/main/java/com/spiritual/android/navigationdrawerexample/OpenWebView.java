@@ -43,13 +43,8 @@ public class OpenWebView extends Activity {
             //App crashed when I tried to make the buttons public variables here
             Button back = (Button) findViewById(R.id.back_button);
             Button forward = (Button) findViewById(R.id.forward_button);
-            /*if(!webView.canGoBack()){
-                back.setVisibility(View.INVISIBLE);
-            }
-            if(forward.getVisibility() == View.INVISIBLE){
-                forward.setVisibility(View.VISIBLE);
-            }
-*/
+
+
         } else {
     //something
 
@@ -60,13 +55,7 @@ public class OpenWebView extends Activity {
             webView.goForward();
             Button back = (Button) findViewById(R.id.back_button);
             Button forward = (Button) findViewById(R.id.forward_button);
-            /*if(!webView.canGoForward()){
-                forward.setVisibility(View.INVISIBLE);
-            }
-            if(back.getVisibility() == View.INVISIBLE){
-                back.setVisibility(View.VISIBLE);
-            }
-            */
+
         } else {
             //Button forwardbutton = (Button) findViewById(R.id.forward_button);
         }

@@ -63,9 +63,9 @@ android:layout_height="match_parent">
                 android:layout_below = "@id/profileBox"
                 android:layout_gravity="start"
                 android:choiceMode="singleChoice"
-                android:divider="@android:color/darker_gray"
+                android:divider="#7c7b7b"
                 android:dividerHeight="1dp"
-                android:background="#848181" />
+                android:background="#ba1616" />
         </android.support.v4.widget.DrawerLayout>
 
         <!-- The navigation drawer -->

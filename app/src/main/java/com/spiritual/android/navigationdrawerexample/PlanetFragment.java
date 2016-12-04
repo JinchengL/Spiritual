@@ -30,10 +30,9 @@ import java.util.TimerTask;
  */
 
 public class PlanetFragment extends Fragment {
-    private View web;
+    //private View web;
     public static final String FRAGMENT_NUMBER = "fragment_number";
     public int time;
-    private Dialog WebDialog1;
 
     public PlanetFragment() {
         // Empty constructor required for fragment subclasses
@@ -64,7 +63,7 @@ public class PlanetFragment extends Fragment {
          }
         else if(i == 2){
             rootView = inflater.inflate(R.layout.html_view,container,false);
-            TextView about = (TextView) rootView.findViewById(R.id.textView10);
+            //TextView about = (TextView) rootView.findViewById(R.id.textView10);
             myWebview = (WebView) rootView.findViewById(R.id.webview);
             myWebview.loadUrl("file:///android_asset/prayer.html");
 
@@ -73,10 +72,15 @@ public class PlanetFragment extends Fragment {
             myWebview.setWebViewClient(new WebViewClient());
 
         }
-        else if (i==3) {
-            rootView = inflater.inflate(R.layout.video,container,false);
+        else if (i==3) { //chaples
+            rootView = inflater.inflate(R.layout.chapel,container,false);
+
+
+
         }
         else if(i == 4) {
+
+
             rootView = inflater.inflate(R.layout.prayers_resource,container,false);
 
             //image button 1

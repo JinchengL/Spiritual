@@ -7,8 +7,17 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="2b4e54f4497675307cb7a1300d4e0a85313d90f5">
+        sha1="16398a2aeb3024ae5cf05af8796fa22a32090ec4">
         <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f038b9d106cc1a1621bf8851c9b68806a22f409/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="755b95926c08127a091eaaad454e6e7659073975">
+        <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad514fc94b0f7e319d79295a53f32d23a84129a4/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -27,15 +36,6 @@
         revision="24.0.2"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
         <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_1956fb2d59790bc866bfdd1ffd19658baf5ce521/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c20deafb00df7a4f175cebba0c74b68ba7410e57">
-        <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad514fc94b0f7e319d79295a53f32d23a84129a4/classes.dex" />
     </item>
     <item
         is-multidex="true"

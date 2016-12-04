@@ -5,33 +5,40 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="96263485344600"
+    timestamp="110870894902965"
     token="924658242865638"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="562" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="146" />
+        duration="0" />
     <task
         name="verifier"
-        duration="19" />
+        duration="0" />
 
     <artifact
-        location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
-        timestamp="96263485344600"
+        timestamp="109968238571501"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="110870894902965"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

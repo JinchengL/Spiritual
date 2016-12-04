@@ -4,7 +4,7 @@
         <item>Home</item>
         <item>About Us</item>
         <item>Prayers</item>
-        <item>Inspiration</item>
+        <item>Sanctuaries/ Chapels</item>
         <item>Sacred Text</item>
         <item>Interfaith Calendar</item>
         <item>Contact Us</item>
@@ -24,6 +24,10 @@
     <string name="action_websearch">Web search</string>
     <string name="app_name">Spiritual Care App</string>
     <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="chapel"> Our Sanctuaries, or chapels, are open 24 hours a day and are located:\n
+        \n Main campus – in the fifth floor Atrium (Rhodes Hall)\n
+Main campus – on the first floor of The James\n
+University Hospital East – on 3 North\n \n Worship services are held throughout the week and on special religious holidays.\n</string>
     <string name="contact_us">If you would like a visit from a chaplain, prayer, a Bible or other sacred text\n from a specific faith tradition, communion or other religious,\n spiritual or pastoral support, please contact us.
 </string>
     <string name="drawer_close">Close navigation drawer</string>

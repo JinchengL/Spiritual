@@ -41,7 +41,7 @@
     android:paddingRight="16dp"
     android:textColor="#181717"
         android:textStyle="bold"
-    android:backgroundTint="#b9b7b7"
+    android:backgroundTint="#d4d1d1"
     android:background="?android:attr/activatedBackgroundIndicator"
     android:minHeight="?android:attr/listPreferredItemHeightSmall"
         android:layout_alignParentRight="true"

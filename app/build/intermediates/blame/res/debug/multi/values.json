@@ -9,7 +9,7 @@
                     "startOffset": 55,
                     "endLine": 11,
                     "endColumn": 19,
-                    "endOffset": 332
+                    "endOffset": 341
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
@@ -19,7 +19,7 @@
                         "startOffset": 676,
                         "endLine": 27,
                         "endColumn": 19,
-                        "endOffset": 953
+                        "endOffset": 962
                     }
                 }
             },
@@ -27,9 +27,9 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 337,
+                    "startOffset": 346,
                     "endColumn": 57,
-                    "endOffset": 390
+                    "endOffset": 399
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
@@ -46,9 +46,9 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 395,
+                    "startOffset": 404,
                     "endColumn": 55,
-                    "endOffset": 446
+                    "endOffset": 455
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
@@ -65,9 +65,9 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 451,
+                    "startOffset": 460,
                     "endColumn": 45,
-                    "endOffset": 492
+                    "endOffset": 501
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
@@ -84,9 +84,9 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 497,
+                    "startOffset": 506,
                     "endColumn": 54,
-                    "endOffset": 547
+                    "endOffset": 556
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
@@ -103,9 +103,9 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 552,
+                    "startOffset": 561,
                     "endColumn": 43,
-                    "endOffset": 591
+                    "endOffset": 600
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
@@ -122,9 +122,9 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 596,
+                    "startOffset": 605,
                     "endColumn": 45,
-                    "endOffset": 637
+                    "endOffset": 646
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
@@ -141,9 +141,9 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 642,
+                    "startOffset": 651,
                     "endColumn": 45,
-                    "endOffset": 683
+                    "endOffset": 692
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
@@ -160,9 +160,9 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 688,
+                    "startOffset": 697,
                     "endColumn": 43,
-                    "endOffset": 727
+                    "endOffset": 736
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
@@ -179,9 +179,9 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 732,
+                    "startOffset": 741,
                     "endColumn": 46,
-                    "endOffset": 774
+                    "endOffset": 783
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
@@ -198,9 +198,9 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 779,
+                    "startOffset": 788,
                     "endColumn": 50,
-                    "endOffset": 825
+                    "endOffset": 834
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
@@ -217,9 +217,9 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 830,
+                    "startOffset": 839,
                     "endColumn": 51,
-                    "endOffset": 877
+                    "endOffset": 886
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/dimens.xml",
@@ -236,18 +236,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 882,
+                    "startOffset": 891,
                     "endColumn": 55,
-                    "endOffset": 933
+                    "endOffset": 942
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 1086,
+                        "startOffset": 1095,
                         "endColumn": 55,
-                        "endOffset": 1137
+                        "endOffset": 1146
                     }
                 }
             },
@@ -255,9 +255,9 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 938,
+                    "startOffset": 947,
                     "endColumn": 55,
-                    "endOffset": 989
+                    "endOffset": 998
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
@@ -274,18 +274,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 994,
+                    "startOffset": 1003,
                     "endColumn": 86,
-                    "endOffset": 1076
+                    "endOffset": 1085
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1142,
+                        "startOffset": 1151,
                         "endColumn": 86,
-                        "endOffset": 1224
+                        "endOffset": 1233
                     }
                 }
             },
@@ -293,58 +293,20 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1081,
-                    "endLine": 27,
-                    "endColumn": 9,
-                    "endOffset": 1313
+                    "startOffset": 1090,
+                    "endLine": 29,
+                    "endColumn": 134,
+                    "endOffset": 1434
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 1359,
-                        "endLine": 35,
-                        "endColumn": 9,
-                        "endOffset": 1591
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 1318,
-                    "endColumn": 64,
-                    "endOffset": 1378
-                },
-                "from": {
-                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 1021,
-                        "endColumn": 64,
-                        "endOffset": 1081
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 1383,
-                    "endColumn": 62,
-                    "endOffset": 1441
-                },
-                "from": {
-                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 958,
-                        "endColumn": 62,
-                        "endOffset": 1016
+                        "startOffset": 1368,
+                        "endLine": 37,
+                        "endColumn": 134,
+                        "endOffset": 1712
                     }
                 }
             },
@@ -352,20 +314,39 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 1446,
-                    "endLine": 32,
+                    "startOffset": 1439,
+                    "endLine": 31,
                     "endColumn": 9,
-                    "endOffset": 2411
+                    "endOffset": 1671
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
-                        "startLine": 36,
+                        "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 1596,
-                        "endLine": 38,
+                        "startOffset": 1717,
+                        "endLine": 39,
                         "endColumn": 9,
-                        "endOffset": 2561
+                        "endOffset": 1949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1676,
+                    "endColumn": 64,
+                    "endOffset": 1736
+                },
+                "from": {
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1030,
+                        "endColumn": 64,
+                        "endOffset": 1090
                     }
                 }
             },
@@ -373,18 +354,18 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 2416,
-                    "endColumn": 68,
-                    "endOffset": 2480
+                    "startOffset": 1741,
+                    "endColumn": 62,
+                    "endOffset": 1799
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1229,
-                        "endColumn": 68,
-                        "endOffset": 1293
+                        "startOffset": 967,
+                        "endColumn": 62,
+                        "endOffset": 1025
                     }
                 }
             },
@@ -392,18 +373,58 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2485,
+                    "startOffset": 1804,
+                    "endLine": 36,
+                    "endColumn": 9,
+                    "endOffset": 2769
+                },
+                "from": {
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1954,
+                        "endLine": 42,
+                        "endColumn": 9,
+                        "endOffset": 2919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2774,
+                    "endColumn": 68,
+                    "endOffset": 2838
+                },
+                "from": {
+                    "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 68,
+                        "endOffset": 1302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2843,
                     "endColumn": 60,
-                    "endOffset": 2541
+                    "endOffset": 2899
                 },
                 "from": {
                     "file": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 1298,
+                        "startOffset": 1307,
                         "endColumn": 60,
-                        "endOffset": 1354
+                        "endOffset": 1363
                     }
                 }
             }

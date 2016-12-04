@@ -16,6 +16,10 @@
         "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/activity_main.xml"
     },
     {
+        "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/chapel.xml",
+        "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/chapel.xml"
+    },
+    {
         "merged": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/res/merged/debug/layout/activity_open_web_view.xml",
         "source": "/Users/Jinchengliu/Downloads/NavigationDrawer1/app/src/main/res/layout/activity_open_web_view.xml"
     },

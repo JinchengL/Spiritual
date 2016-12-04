@@ -94,7 +94,7 @@ public class MainActivity extends Activity {
         mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_home,"Home" ));
         mNavItems.add(new NavItem(R.drawable.aboutus,"About us" ));
         mNavItems.add(new NavItem(R.drawable.prayer,"Prayers"));
-        mNavItems.add(new NavItem(R.drawable.inspiration,"Inspiration" ));
+        mNavItems.add(new NavItem(R.drawable.inspiration,"Sanctuaries/ Chapels" ));
         mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_text,"Sacred Texts" ));
         mNavItems.add(new NavItem(R.drawable.calendar,"Interfaith Calendar" ));
         mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_contact,"Contact Us" ));
@@ -206,9 +206,6 @@ public class MainActivity extends Activity {
 
             titleView.setText( mNavItems.get(position).mTitle );
             iconView.setImageResource(mNavItems.get(position).mIcon);
-           // TextView about = (TextView) view.findViewById(R.id.textView10);
-           // String eda = "TESTA";
-            //about.setText(eda);
 
             return view;
         }
