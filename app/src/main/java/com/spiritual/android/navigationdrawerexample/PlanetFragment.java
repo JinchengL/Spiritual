@@ -61,31 +61,6 @@ public class PlanetFragment extends Fragment {
             webSettings.setJavaScriptEnabled(true);
             myWebview.setWebViewClient(new WebViewClient());
 
-
-
-            /*AssetManager assetman=myContext.getAssets();
-            try {
-                String[] files = assetman.list("Files");
-                for(int k = 0;k < files.length;k++){
-                    about.append("\n Files=>"+i+"Name"+files);
-                }
-            }
-            catch (Exception e){
-                e.printStackTrace();
-            }
-            InputStream input;
-            try{
-                input=assetman.open("abouttext.docx");
-                int size = input.available();
-                byte[] buffer = new byte[size];
-                input.read(buffer);
-                input.close();
-                String text = new String(buffer);
-                about.setText(Html.fromHtml(text));
-            }catch (Exception e){
-                e.printStackTrace();
-            }
-*/
          }
         else if(i == 2){
             rootView = inflater.inflate(R.layout.html_view,container,false);
@@ -142,6 +117,7 @@ public class PlanetFragment extends Fragment {
 
         }
         else{
+
             rootView = inflater.inflate(R.layout.home_page,container,false);
 
             class UpdateAnimationFrame extends TimerTask{
@@ -269,7 +245,6 @@ public class PlanetFragment extends Fragment {
             });
 
         }
-
         return rootView;
 
     }
