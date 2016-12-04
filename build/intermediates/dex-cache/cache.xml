@@ -3,48 +3,75 @@
 
     <item
         is-multidex="true"
-        jar="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bc2ffb3ed44f3b612949837e425f5a472a94281f">
-        <dex dex="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2b2e4827e003253f7718e198b3ba6bfb52c2720d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jar="C:\Users\Skylor\CapstoneFinal\Spiritual\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_e8aed905716bb87131647f1dd0fd722d7426d6ea\classes.dex" />
+        <dex dex="C:\Users\Skylor\CapstoneFinal\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_dd1ddedd2a7b2bee22ae5f35bf0199005beffc04\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="919beed5c7c31d727d066179efda5f25893e9288">
-        <dex dex="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1e213661f18449c3cefdd5cee92f20551337f5e8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jar="C:\Users\Skylor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_0f6553860408c70fcbf9af741b0e3a91ead8e096\classes.dex" />
+        <dex dex="C:\Users\Skylor\CapstoneFinal\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_cb2d0a07d0cb53e865691ef8b6bbd44bf0381e09\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Skylor\CapstoneFinal\Spiritual\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Skylor\CapstoneFinal\Spiritual\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_2d209cf2429c8ddffeb3d8cb74f647d9cfe3c6ae.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jar="C:\Users\Skylor\CapstoneFinal\Spiritual\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2e52936f0feddb3e99be665a9ab4cdf56fb39a2e">
+        <dex dex="C:\Users\Skylor\CapstoneFinal\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_46807618d75be02a5c41a964d024911245bd131c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Skylor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Skylor\CapstoneFinal\Spiritual\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_cb2d0a07d0cb53e865691ef8b6bbd44bf0381e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Skylor\CapstoneFinal\Spiritual\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Skylor\CapstoneFinal\Spiritual\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_dd1ddedd2a7b2bee22ae5f35bf0199005beffc04.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Skylor\CapstoneFinal\Spiritual\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="E:\Downloads\version 2 after 5 images\NavigationDrawer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_3b086c021833e340c62a767e65631ee006fc222c\classes.dex" />
+        <dex dex="C:\Users\Skylor\CapstoneFinal\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_2d209cf2429c8ddffeb3d8cb74f647d9cfe3c6ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Skylor\CapstoneFinal\Spiritual\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="68074a829522c3abab7610b984b2115901a41e1d">
+        <dex dex="C:\Users\Skylor\CapstoneFinal\Spiritual\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c54d2a575ed6d11282ebc38e13239adc47a01fea\classes.dex" />
     </item>
 
 </items>

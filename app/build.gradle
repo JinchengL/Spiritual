@@ -1,10 +1,14 @@
 apply plugin: 'com.android.application'
 
 android {
+    lintOptions{
+        checkReleaseBuilds false
+        abortOnError false
+    }
     compileSdkVersion 23
     buildToolsVersion "24.0.2"
     defaultConfig {
-        applicationId "com.example.android.navigationdrawerexample"
+        applicationId "com.spiritual.android.navigationdrawerexample"
         minSdkVersion 23
         targetSdkVersion 17
     }

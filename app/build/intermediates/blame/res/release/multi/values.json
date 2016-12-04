@@ -1,0 +1,412 @@
+[
+    {
+        "outputFile": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 694,
+                        "endLine": 27,
+                        "endColumn": 19,
+                        "endOffset": 980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 57,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 57,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 55,
+                    "endOffset": 446
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 406,
+                        "endColumn": 55,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 451,
+                    "endColumn": 45,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 45,
+                        "endOffset": 247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 54,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 54,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endColumn": 43,
+                    "endOffset": 591
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 43,
+                        "endOffset": 96
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 596,
+                    "endColumn": 45,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 300,
+                        "endColumn": 45,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 45,
+                    "endOffset": 683
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 45,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 688,
+                    "endColumn": 43,
+                    "endOffset": 727
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 568,
+                        "endColumn": 43,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 732,
+                    "endColumn": 46,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 46,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 779,
+                    "endColumn": 50,
+                    "endOffset": 825
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 50,
+                        "endOffset": 509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 830,
+                    "endColumn": 51,
+                    "endOffset": 877
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 51,
+                        "endOffset": 562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 882,
+                    "endColumn": 55,
+                    "endOffset": 933
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1116,
+                        "endColumn": 55,
+                        "endOffset": 1167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 938,
+                    "endColumn": 55,
+                    "endOffset": 989
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 55,
+                        "endOffset": 688
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 994,
+                    "endColumn": 86,
+                    "endOffset": 1076
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1173,
+                        "endColumn": 86,
+                        "endOffset": 1255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1081,
+                    "endLine": 27,
+                    "endColumn": 9,
+                    "endOffset": 1313
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1393,
+                        "endLine": 35,
+                        "endColumn": 9,
+                        "endOffset": 1626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1318,
+                    "endColumn": 64,
+                    "endOffset": 1378
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endColumn": 64,
+                        "endOffset": 1110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1383,
+                    "endColumn": 62,
+                    "endOffset": 1441
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endColumn": 62,
+                        "endOffset": 1044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1446,
+                    "endLine": 32,
+                    "endColumn": 9,
+                    "endOffset": 2411
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1632,
+                        "endLine": 38,
+                        "endColumn": 9,
+                        "endOffset": 2599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2416,
+                    "endColumn": 68,
+                    "endOffset": 2480
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1261,
+                        "endColumn": 68,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2485,
+                    "endColumn": 60,
+                    "endOffset": 2541
+                },
+                "from": {
+                    "file": "C:\\Users\\Skylor\\CapstoneFinal\\Spiritual\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1331,
+                        "endColumn": 60,
+                        "endOffset": 1387
+                    }
+                }
+            }
+        ]
+    }
+]
