@@ -16,6 +16,7 @@
 
 package com.spiritual.android.navigationdrawerexample;
 
+import java.io.InputStream;
 import java.util.ArrayList;
 
 import android.app.Activity;
@@ -30,6 +31,7 @@ import android.os.Bundle;
 import android.support.v4.app.ActionBarDrawerToggle;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.widget.DrawerLayout;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -43,6 +45,13 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.android.volley.Request;
+import com.android.volley.RequestQueue;
+import com.android.volley.Response;
+import com.android.volley.VolleyError;
+import com.android.volley.toolbox.StringRequest;
+import com.android.volley.toolbox.Volley;
 
 /**
  * This example illustrates a common usage of the DrawerLayout widget
@@ -90,6 +99,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        getQuoteOfTheDay();
         //list all the items image and title
         mNavItems.add(new NavItem(R.drawable.ic_drawer_icon_home,"Home" ));
         mNavItems.add(new NavItem(R.drawable.aboutus,"About us" ));
@@ -158,6 +168,33 @@ public class MainActivity extends Activity {
         }
 
 
+    }
+
+    private void getQuoteOfTheDay() {
+        InputStream is = null;
+        // Only display the first 500 characters of the retrieved
+        // web page content.
+        int len = 500;
+        RequestQueue queue = Volley.newRequestQueue(this);
+        String url = "http://ec2-35-161-157-75.us-west-2.compute.amazonaws.com/getDailyQuote.php";
+        StringRequest stringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
+
+            @Override
+            public void onResponse(String response) {
+                //response is a regular string
+                TextView quote = (TextView)findViewById(R.id.textViewQOTD);
+                quote.setText(response);
+                Log.w("myApp", "got a text link");
+            }
+        }, new Response.ErrorListener() {
+
+            @Override
+            public void onErrorResponse(VolleyError error) {
+                //TODO Auto-generated method stub
+
+            }
+        });
+        queue.add(stringRequest);
     }
 
     class NavItem {
