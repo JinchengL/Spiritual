@@ -152,7 +152,7 @@ public class PlanetFragment extends Fragment {
 
             final Integer[] images = {R.drawable.believe, R.drawable.droplet, R.drawable.hands, R.drawable.kneel_prayer, R.drawable.sunset, R.drawable.spirituality, R.drawable.meditation};
             RadioButton radio1, radio2, radio3, radio4, radio5, radio6, radio7;
-            EditText prayerText = (EditText)rootView.findViewById(R.id.PrayerText);
+            final EditText prayerText = (EditText)rootView.findViewById(R.id.PrayerText);
             Button prayerSubmitButton = (Button)rootView.findViewById(R.id.prayerRequestSubmitButton);
             final ImageSwitcher imageSwitcher;
             final int counter = 0;
@@ -168,10 +168,11 @@ public class PlanetFragment extends Fragment {
             radio7 = (RadioButton)rootView.findViewById(R.id.radioButton7);
 
 
-            prayerTextString = prayerText.getText().toString().trim();
+
             prayerSubmitButton.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
+                    prayerTextString = prayerText.getText().toString().trim();
                     sendPrayer();
                 }
             });
@@ -293,13 +294,13 @@ public class PlanetFragment extends Fragment {
                     new Response.ErrorListener() {
                         @Override
                         public void onErrorResponse(VolleyError error) {
-                            //Toast.makeText(getContext(), error.toString(),Toast.LENGTH_LONG).show();
+                            Toast.makeText(getContext(), error.toString(),Toast.LENGTH_LONG).show();
                         }
                     }){
                 @Override
                 protected Map<String,String> getParams(){
                     Map<String,String> params = new HashMap<String, String>();
-                    params.put("preyer",prayerTextString);
+                    params.put("prayer",prayerTextString);
                     return params;
                 }
             };
