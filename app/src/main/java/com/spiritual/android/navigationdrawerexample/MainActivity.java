@@ -177,7 +177,7 @@ public class MainActivity extends Activity {
             // web page content.
             int len = 500;
             RequestQueue queue = Volley.newRequestQueue(this);
-            String url = "35.162.162.165/getDailyQuote.php";
+            String url = "http://35.162.162.165/getDailyQuote.php";
             StringRequest stringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
 
                 @Override

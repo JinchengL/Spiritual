@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="0f9a3ca7ed1b413c39b9708293fe655b51d2a649">
+        sha1="e4832ba1e5a24e106ed399bbac2db92daa5223f3">
         <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6c297fe534d4231272524761faefabccb5051a10\classes.dex" />
     </item>
     <item
@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="a12558e7e56fcc7252fdc3780f34fbfb993e4211">
+        sha1="8dbfe29db208ce33cdc14f79a40b63adfc748b21">
         <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_737bbc4f1a1a33508b43b4a99dd0c0c5f7f6431f\classes.dex" />
     </item>
     <item
