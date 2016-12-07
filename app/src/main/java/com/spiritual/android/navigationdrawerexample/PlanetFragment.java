@@ -15,12 +15,15 @@ import android.view.animation.AnimationUtils;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageSwitcher;
 import android.widget.ImageView;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 import android.widget.ViewSwitcher;
 
 import com.android.volley.Request;
@@ -31,6 +34,8 @@ import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 
 import java.io.InputStream;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Timer;
 import java.util.TimerTask;
 
@@ -43,6 +48,7 @@ public class PlanetFragment extends Fragment {
     public static final String FRAGMENT_NUMBER = "fragment_number";
     public int time;
 
+    public String prayerTextString;
     public PlanetFragment() {
         // Empty constructor required for fragment subclasses
     }
@@ -146,6 +152,8 @@ public class PlanetFragment extends Fragment {
 
             final Integer[] images = {R.drawable.believe, R.drawable.droplet, R.drawable.hands, R.drawable.kneel_prayer, R.drawable.sunset, R.drawable.spirituality, R.drawable.meditation};
             RadioButton radio1, radio2, radio3, radio4, radio5, radio6, radio7;
+            EditText prayerText = (EditText)rootView.findViewById(R.id.PrayerText);
+            Button prayerSubmitButton = (Button)rootView.findViewById(R.id.prayerRequestSubmitButton);
             final ImageSwitcher imageSwitcher;
             final int counter = 0;
             int updater = time % 8;
@@ -159,6 +167,14 @@ public class PlanetFragment extends Fragment {
             radio6 = (RadioButton)rootView.findViewById(R.id.radioButton6);
             radio7 = (RadioButton)rootView.findViewById(R.id.radioButton7);
 
+
+            prayerTextString = prayerText.getText().toString().trim();
+            prayerSubmitButton.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    sendPrayer();
+                }
+            });
 
             imageSwitcher = (ImageSwitcher)rootView.findViewById(R.id.imageSwitcher);
             imageSwitcher.setFactory(new ViewSwitcher.ViewFactory() {
@@ -186,6 +202,8 @@ public class PlanetFragment extends Fragment {
 
             imageSwitcher.setInAnimation(in);
             imageSwitcher.setOutAnimation(out);
+
+            //Toast.makeText(getApplicationContext(), "Prayer Request Sent!", Toast.LENGTH_LONG).show();
 
             RadioGroup radioGroup = (RadioGroup)rootView.findViewById(R.id.radioGroup);
 
@@ -262,6 +280,32 @@ public class PlanetFragment extends Fragment {
 
     }
 
+    private void sendPrayer() {
+            String url = "http://35.162.162.165/sendPrayer.php";
+            StringRequest stringRequest = new StringRequest(Request.Method.POST, url, new Response.Listener<String>() {
+
+                @Override
+                public void onResponse(String response) {
+                    Toast.makeText(getContext(), response,Toast.LENGTH_LONG).show();
+                    Log.w("myApp", "got a text link");
+                }
+            },
+                    new Response.ErrorListener() {
+                        @Override
+                        public void onErrorResponse(VolleyError error) {
+                            //Toast.makeText(getContext(), error.toString(),Toast.LENGTH_LONG).show();
+                        }
+                    }){
+                @Override
+                protected Map<String,String> getParams(){
+                    Map<String,String> params = new HashMap<String, String>();
+                    params.put("preyer",prayerTextString);
+                    return params;
+                }
+            };
+            RequestQueue requestQueue = Volley.newRequestQueue(getContext());
+            requestQueue.add(stringRequest);
+    }
 
 
 }

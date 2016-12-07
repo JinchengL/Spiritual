@@ -18,6 +18,8 @@ package com.spiritual.android.navigationdrawerexample;
 
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -53,6 +55,8 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 
+import static java.security.AccessController.getContext;
+
 /**
  * This example illustrates a common usage of the DrawerLayout widget
  * in the Android support library.
@@ -86,6 +90,7 @@ public class MainActivity extends Activity {
     private LinearLayout mLinearLayout;
     private ListView mDrawerList;
     private ActionBarDrawerToggle mDrawerToggle;
+
 
 
     private CharSequence mDrawerTitle;
@@ -172,11 +177,12 @@ public class MainActivity extends Activity {
 
     private void getQuoteOfTheDay() {
 
+         RequestQueue queue = Volley.newRequestQueue(this);
             InputStream is = null;
             // Only display the first 500 characters of the retrieved
             // web page content.
             int len = 500;
-            RequestQueue queue = Volley.newRequestQueue(this);
+            //RequestQueue queue = Volley.newRequestQueue(this);
             String url = "http://35.162.162.165/getDailyQuote.php";
             StringRequest stringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
 
@@ -198,6 +204,8 @@ public class MainActivity extends Activity {
             queue.add(stringRequest);
 
     }
+
+
 
 
     class NavItem {
