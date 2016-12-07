@@ -154,10 +154,12 @@ public class PlanetFragment extends Fragment {
             RadioButton radio1, radio2, radio3, radio4, radio5, radio6, radio7;
             final EditText prayerText = (EditText)rootView.findViewById(R.id.PrayerText);
             Button prayerSubmitButton = (Button)rootView.findViewById(R.id.prayerRequestSubmitButton);
+            TextView QOTDTextView = (TextView)rootView.findViewById(R.id.textViewQOTD);
             final ImageSwitcher imageSwitcher;
             final int counter = 0;
             int updater = time % 8;
 
+            QOTDTextView.setText(MainActivity.QOTDResponse);
 
             radio1 = (RadioButton)rootView.findViewById(R.id.radioButton);
             radio2 = (RadioButton)rootView.findViewById(R.id.radioButton2);

@@ -92,6 +92,7 @@ public class MainActivity extends Activity {
     private ActionBarDrawerToggle mDrawerToggle;
 
 
+    public static String QOTDResponse;
 
     private CharSequence mDrawerTitle;
     private CharSequence mTitle;
@@ -190,6 +191,7 @@ public class MainActivity extends Activity {
                 public void onResponse(String response) {
                     //response is a regular string
                     TextView quote = (TextView)findViewById(R.id.textViewQOTD);
+                    QOTDResponse = response;
                     quote.setText(response);
                     Log.w("myApp", "got a text link");
                 }

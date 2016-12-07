@@ -96,7 +96,8 @@
 
         <RelativeLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent">
+            android:layout_height="match_parent"
+            android:id="@+id/QOTDLayout">
 
             <ImageView
                 android:src="@drawable/text_box_cover"
@@ -107,12 +108,13 @@
 
             <TextView
                 android:textSize="14pt"
-                android:layout_marginLeft="200dp"
-                android:layout_marginTop="80dp"
+                android:layout_marginLeft="70dp"
+                android:layout_marginTop="55dp"
                 android:layout_alignLeft="@id/QOTDBackgroundImage"
-                android:layout_width="400dp"
+                android:layout_width="550dp"
                 android:layout_height="160dp"
-                android:id="@+id/textViewQOTD" />
+                android:id="@+id/textViewQOTD"
+                android:textAlignment="center" />
         </RelativeLayout>
 
 
