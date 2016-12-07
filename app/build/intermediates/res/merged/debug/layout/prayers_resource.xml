@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/statue_background"
+    android:weightSum="2"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:weightSum = "2"
+            android:orientation="vertical"
+            android:layout_weight="1">
+
+
+            <ImageButton
+                android:src="@drawable/christianity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:id="@+id/imageButton1"
+                android:background="@null"
+                android:layout_weight="1.7" />
+
+            <TextView
+                android:text="Christian"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView17"
+                android:layout_weight="0.3"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:gravity = "center_horizontal"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum="2"
+                android:layout_weight="1.7">
+
+                <ImageButton
+                    android:src="@drawable/hindu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imageButton2"
+                    android:layout_weight="1"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    />
+
+                <ImageButton
+                    android:src="@drawable/budhist"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imageButton3"
+                    android:layout_weight="1"
+                    android:layout_gravity="center"
+                    android:background="@null"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="10.3">
+
+                <TextView
+                    android:text="Hinduism"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView18"
+                    android:layout_weight="0.3"
+                    android:textSize="22sp"
+                    android:textStyle="bold"
+                    android:gravity = "center_horizontal"
+                    />
+
+                <TextView
+                    android:text="Buddhism"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView19"
+                    android:layout_weight="0.3"
+                    android:textSize="22sp"
+                    android:textStyle="bold"
+                    android:gravity = "center_horizontal"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:weightSum = "2"
+                android:orientation="horizontal"
+                android:layout_weight="1">
+
+
+
+                <ImageButton
+                    android:src="@drawable/jewish"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imageButton4"
+                    android:layout_weight="1"
+                    android:layout_gravity="center"
+                    android:background="@null"/>
+
+                <ImageButton
+                    android:src="@drawable/islam"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/imageButton5"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:layout_gravity="center"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2">
+
+                <TextView
+                    android:text="Judaism"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView20"
+                    android:layout_weight="0.3"
+                    android:textSize="22sp"
+                    android:textStyle="bold"
+                    android:gravity = "center_horizontal"
+                    />
+
+                <TextView
+                    android:text="Islam"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView21"
+                    android:layout_weight="0.3"
+                    android:textSize="22sp"
+                    android:textStyle="bold"
+                    android:gravity = "center_horizontal"
+                    />
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

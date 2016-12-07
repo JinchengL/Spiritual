@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id= "@+id/home_layout"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="#ffffff"
+    android:weightSum="1.70">
+
+
+    <RelativeLayout
+        android:background="@drawable/statue_background"
+        android:layout_width = "wrap_content"
+        android:layout_height="match_parent"
+        >
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/rightSideLayout">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_marginLeft="720dp"
+                android:layout_width="match_parent"
+                android:id="@+id/prayerLayout"
+                android:layout_height="400dp">
+
+                <TextView
+                    android:text="E-Prayer Request"
+                    android:layout_width="250dp"
+                    android:layout_marginLeft="30dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/e_prayer"
+                    android:textSize="14pt" />
+
+                <ImageButton
+                    android:layout_width="200dp"
+                    android:layout_height="145dip"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="50dp"
+                    android:id="@+id/PrayerRequestButton"
+                    android:background="@drawable/prayer_bowl_200"
+                    android:elevation="24dp"
+                    android:tint="@android:color/darker_gray" />
+
+                <EditText
+                    android:layout_width="220dp"
+                    android:layout_height="80dp"
+                    android:layout_marginLeft="40dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_alignTop="@id/PrayerRequestButton"
+                    android:id="@+id/PrayerText" />
+
+                <Button
+                    android:text="Submit Prayer Request"
+                    android:layout_width="200dp"
+                    android:layout_marginLeft="45dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/prayerRequestSubmitButton" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_marginLeft="720dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/calendarLayout">
+
+                <TextView
+                    android:text="Event Calendar"
+                    android:textSize="12pt"
+                    android:typeface="serif"
+                    android:layout_width="match_parent"
+                    android:layout_marginLeft="50dp"
+                    android:layout_marginBottom="8dp"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/CalanderText" />
+
+                <ImageButton
+                    android:src="@drawable/calendar100"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="70dp"
+                    android:id="@+id/calendarButton"
+                    android:contentDescription="@string/title_activity_resource"
+                    android:elevation="0dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/QOTDLayout">
+
+            <ImageView
+                android:src="@drawable/text_box_cover"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/QOTDBackgroundImage"
+                android:contentDescription="QOTDPic" />
+
+            <TextView
+                android:textSize="14pt"
+                android:layout_marginLeft="70dp"
+                android:layout_marginTop="55dp"
+                android:layout_alignLeft="@id/QOTDBackgroundImage"
+                android:layout_width="550dp"
+                android:layout_height="140dp"
+                android:id="@+id/textViewQOTD"
+                android:textAlignment="center" />
+        </RelativeLayout>
+
+
+        <ImageSwitcher
+            android:layout_width="450dp"
+            android:layout_height="375dp"
+            android:layout_marginLeft="175dp"
+            android:layout_marginTop="240dp"
+            android:id="@+id/imageSwitcher">
+
+        </ImageSwitcher>
+
+        <ImageView
+            android:src="@drawable/border_top_left"
+            android:layout_width="200dp"
+            android:layout_marginLeft="-25dp"
+            android:layout_marginTop="210dp"
+            android:layout_alignLeft="@id/imageSwitcher"
+            android:layout_height="200dp"
+            android:id="@+id/SlideShowTopLeft" />
+
+        <ImageView
+            android:src="@drawable/border_bottom_right"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_alignLeft="@id/imageSwitcher"
+            android:layout_marginLeft="280dp"
+            android:layout_marginTop="448dp"
+            android:id="@+id/SlideShowBottomRight" />
+
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioGroup"
+            android:orientation="horizontal"
+            android:layout_below="@+id/imageSwitcher"
+            android:layout_alignLeft="@+id/imageSwitcher"
+            android:layout_marginTop="16dp"
+            android:layout_marginLeft="120dp">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:id="@+id/radioButton" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioButton2"
+                android:layout_weight="1" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioButton3"
+                android:layout_weight="1" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioButton4"
+                android:layout_weight="1" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioButton5"
+                android:layout_weight="1" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioButton6"
+                android:layout_weight="1" />
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/radioButton7"
+                android:layout_weight="1" />
+        </RadioGroup>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

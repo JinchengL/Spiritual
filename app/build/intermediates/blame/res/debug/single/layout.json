@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\Documents\\Spiritual_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "E:\\Documents\\Spiritual_master\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Spiritual_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\prayers_resource.xml",
+        "source": "E:\\Documents\\Spiritual_master\\app\\src\\main\\res\\layout\\prayers_resource.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Spiritual_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_planet.xml",
+        "source": "E:\\Documents\\Spiritual_master\\app\\src\\main\\res\\layout\\fragment_planet.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Spiritual_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video.xml",
+        "source": "E:\\Documents\\Spiritual_master\\app\\src\\main\\res\\layout\\video.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Spiritual_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chapel.xml",
+        "source": "E:\\Documents\\Spiritual_master\\app\\src\\main\\res\\layout\\chapel.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Spiritual_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\interfaith_calendar.xml",
+        "source": "E:\\Documents\\Spiritual_master\\app\\src\\main\\res\\layout\\interfaith_calendar.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Spiritual_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_page.xml",
+        "source": "E:\\Documents\\Spiritual_master\\app\\src\\main\\res\\layout\\home_page.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Spiritual_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_us.xml",
+        "source": "E:\\Documents\\Spiritual_master\\app\\src\\main\\res\\layout\\about_us.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Spiritual_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_open_web_view.xml",
+        "source": "E:\\Documents\\Spiritual_master\\app\\src\\main\\res\\layout\\activity_open_web_view.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Spiritual_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\html_view.xml",
+        "source": "E:\\Documents\\Spiritual_master\\app\\src\\main\\res\\layout\\html_view.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Spiritual_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_us.xml",
+        "source": "E:\\Documents\\Spiritual_master\\app\\src\\main\\res\\layout\\contact_us.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Spiritual_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\prayers.xml",
+        "source": "E:\\Documents\\Spiritual_master\\app\\src\\main\\res\\layout\\prayers.xml"
+    },
+    {
+        "merged": "E:\\Documents\\Spiritual_master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Documents\\Spiritual_master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
