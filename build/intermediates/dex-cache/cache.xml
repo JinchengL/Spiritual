@@ -3,48 +3,48 @@
 
     <item
         is-multidex="true"
-        jar="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="16398a2aeb3024ae5cf05af8796fa22a32090ec4">
-        <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4f038b9d106cc1a1621bf8851c9b68806a22f409/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="755b95926c08127a091eaaad454e6e7659073975">
-        <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ad514fc94b0f7e319d79295a53f32d23a84129a4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jar="E:\Documents\Spiritual_master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_6a0241ab05b6a3822cc1f5ed9d80aac9d671da6c/classes.dex" />
+        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_b4b4f6d92457e4008216b57d8f47950f27fbabbc\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Jinchengliu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jar="E:\Documents\Spiritual_master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_1956fb2d59790bc866bfdd1ffd19658baf5ce521/classes.dex" />
+        sha1="0f9a3ca7ed1b413c39b9708293fe655b51d2a649">
+        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6c297fe534d4231272524761faefabccb5051a10\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jar="E:\Documents\Spiritual_master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/Users/Jinchengliu/Downloads/NavigationDrawer1/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_9ad8c7483c248ae4b79eb4558536653fc417a3a9/classes.dex" />
+        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_d2a5e18d25162697041434884e311a9cbf5351b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Documents\Spiritual_master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a12558e7e56fcc7252fdc3780f34fbfb993e4211">
+        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_737bbc4f1a1a33508b43b4a99dd0c0c5f7f6431f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_0f6553860408c70fcbf9af741b0e3a91ead8e096\classes.dex" />
     </item>
 
 </items>

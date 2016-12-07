@@ -171,31 +171,34 @@ public class MainActivity extends Activity {
     }
 
     private void getQuoteOfTheDay() {
-        InputStream is = null;
-        // Only display the first 500 characters of the retrieved
-        // web page content.
-        int len = 500;
-        RequestQueue queue = Volley.newRequestQueue(this);
-        String url = "http://ec2-35-161-157-75.us-west-2.compute.amazonaws.com/getDailyQuote.php";
-        StringRequest stringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
 
-            @Override
-            public void onResponse(String response) {
-                //response is a regular string
-                TextView quote = (TextView)findViewById(R.id.textViewQOTD);
-                quote.setText(response);
-                Log.w("myApp", "got a text link");
-            }
-        }, new Response.ErrorListener() {
+            InputStream is = null;
+            // Only display the first 500 characters of the retrieved
+            // web page content.
+            int len = 500;
+            RequestQueue queue = Volley.newRequestQueue(this);
+            String url = "35.162.162.165/getDailyQuote.php";
+            StringRequest stringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
 
-            @Override
-            public void onErrorResponse(VolleyError error) {
-                //TODO Auto-generated method stub
+                @Override
+                public void onResponse(String response) {
+                    //response is a regular string
+                    TextView quote = (TextView)findViewById(R.id.textViewQOTD);
+                    quote.setText(response);
+                    Log.w("myApp", "got a text link");
+                }
+            }, new Response.ErrorListener() {
 
-            }
-        });
-        queue.add(stringRequest);
+                @Override
+                public void onErrorResponse(VolleyError error) {
+                    //TODO Auto-generated method stub
+
+                }
+            });
+            queue.add(stringRequest);
+
     }
+
 
     class NavItem {
         public int mIcon;
