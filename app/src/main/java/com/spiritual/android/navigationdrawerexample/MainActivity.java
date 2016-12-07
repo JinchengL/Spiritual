@@ -177,7 +177,7 @@ public class MainActivity extends Activity {
 
     private void getQuoteOfTheDay() {
 
-         RequestQueue queue = Volley.newRequestQueue(this);
+         RequestQueue queue = Volley.newRequestQueue(getApplicationContext());
             InputStream is = null;
             // Only display the first 500 characters of the retrieved
             // web page content.

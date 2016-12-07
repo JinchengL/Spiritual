@@ -181,7 +181,8 @@ public class PlanetFragment extends Fragment {
             imageSwitcher.setFactory(new ViewSwitcher.ViewFactory() {
                 @Override
                 public View makeView() {
-                    ImageView imageView = new ImageView(getContext());
+                    //****************************************************************************************************//
+                    ImageView imageView = new ImageView(getActivity());
                     imageView.setScaleType(ImageView.ScaleType.CENTER_INSIDE);
                     imageView.setLayoutParams(new ImageSwitcher.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT));
                     return imageView;
@@ -198,8 +199,9 @@ public class PlanetFragment extends Fragment {
             ImageButton calendarButton = (ImageButton)rootView.findViewById(R.id.calendarButton);
             // calendarButton.setOnClickListener();
 
-            Animation in = AnimationUtils.loadAnimation(getContext(), R.anim.in);
-            Animation out = AnimationUtils.loadAnimation(getContext(), R.anim.out);
+            //****************************************************************************************************//
+            Animation in = AnimationUtils.loadAnimation(getActivity(), R.anim.in);
+            Animation out = AnimationUtils.loadAnimation(getActivity(), R.anim.out);
 
             imageSwitcher.setInAnimation(in);
             imageSwitcher.setOutAnimation(out);
@@ -287,14 +289,16 @@ public class PlanetFragment extends Fragment {
 
                 @Override
                 public void onResponse(String response) {
-                    Toast.makeText(getContext(), response,Toast.LENGTH_LONG).show();
+                    //****************************************************************************************************//
+                    Toast.makeText(getActivity(), response,Toast.LENGTH_LONG).show();
                     Log.w("myApp", "got a text link");
                 }
             },
                     new Response.ErrorListener() {
                         @Override
                         public void onErrorResponse(VolleyError error) {
-                            Toast.makeText(getContext(), error.toString(),Toast.LENGTH_LONG).show();
+                            //****************************************************************************************************//
+                            Toast.makeText(getActivity(), error.toString(),Toast.LENGTH_LONG).show();
                         }
                     }){
                 @Override
@@ -304,7 +308,8 @@ public class PlanetFragment extends Fragment {
                     return params;
                 }
             };
-            RequestQueue requestQueue = Volley.newRequestQueue(getContext());
+        //****************************************************************************************************//
+            RequestQueue requestQueue = Volley.newRequestQueue(getActivity());
             requestQueue.add(stringRequest);
     }
 

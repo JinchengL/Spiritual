@@ -2,49 +2,49 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="E:\Documents\Spiritual_master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
-        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_b4b4f6d92457e4008216b57d8f47950f27fbabbc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\Documents\Spiritual_master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="53e719f84a97573e941bd24d122d082b0344eebf">
-        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6c297fe534d4231272524761faefabccb5051a10\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="E:\Documents\Spiritual_master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_d2a5e18d25162697041434884e311a9cbf5351b9\classes.dex" />
+        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_d2a5e18d25162697041434884e311a9cbf5351b9.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="E:\Documents\Spiritual_master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8fc509e747c99808dc4ae03b8058fb3d50b712d4">
+        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6c297fe534d4231272524761faefabccb5051a10.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="E:\Documents\Spiritual_master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="0bbdbd5369a47ee963feb07ad6eb787879f09a41">
-        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_737bbc4f1a1a33508b43b4a99dd0c0c5f7f6431f\classes.dex" />
+        sha1="bd8a0a447ea8a9a0b275b6b0c67c82da84290123">
+        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\pre-dexed\debug\instant-run_737bbc4f1a1a33508b43b4a99dd0c0c5f7f6431f.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
         jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
-        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_0f6553860408c70fcbf9af741b0e3a91ead8e096\classes.dex" />
+        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_0f6553860408c70fcbf9af741b0e3a91ead8e096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Documents\Spiritual_master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Documents\Spiritual_master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_b4b4f6d92457e4008216b57d8f47950f27fbabbc.jar" />
     </item>
 
 </items>
